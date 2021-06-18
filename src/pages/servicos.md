@@ -43,7 +43,9 @@ sections:
         type: grid_item
         image: /images/portfolio/feuer/002.png
       - title: Empreendimentos
-        subtitle: lorem-ipsum
+        subtitle: >-
+          Prédios, condomínios/parcelamentos, aeroporto, hospitais, shoppings,
+          fazendas
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
