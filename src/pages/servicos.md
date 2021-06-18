@@ -6,6 +6,7 @@ sections:
     title: serviços
     subtitle: Conheça nossas principais frentes de serviço
     image_alt: lorem-ipsum
+    bg-color: gray
     content: >
       Vamos começar assim: somos diferentes e seu projeto também será. Sendo
       mais precisos, será único. Temos a prática de adotar soluções complexas (e
