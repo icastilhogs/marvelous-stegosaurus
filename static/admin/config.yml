@@ -455,7 +455,7 @@ collections:
               - widget: select
                 name: bg-color
                 label: Background Color
-                required: false
+                required: true
                 default: white
                 options:
                   - white
