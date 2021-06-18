@@ -16,7 +16,7 @@ sections:
 
 
       As nossas principais frentes são direcionadas a empreendedores e/ou
-      incorporadores.
+      incorporadores: comercial/coorporativo; empreendimentos; social/cultural.
     type: content_section
   - section_id: lorem-ipsum
     title: as frentes
