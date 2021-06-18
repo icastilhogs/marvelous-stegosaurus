@@ -17,6 +17,15 @@
                 "style": "link"
             },
             {
+                "label": "serviços",
+                "url": "/servicos",
+                "style": "link",
+                "icon": "dribbble",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            },
+            {
                 "type": "action",
                 "label": "portfolio",
                 "url": "/portfolio/",
@@ -27,15 +36,6 @@
                 "label": "journal",
                 "url": "/journal/",
                 "style": "link"
-            },
-            {
-                "label": "serviços",
-                "url": "/servicos",
-                "style": "link",
-                "icon": "dribbble",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
             },
             {
                 "type": "action",
