@@ -54,7 +54,7 @@ export default class Project extends React.Component {
                     (project_index_length > 0) && (
                     <nav key={project_item_idx} className="section section--portfolio">
                       <div className="container container--lg">
-                        <h2 className="section__title line-top">More Projects</h2>
+                        <h2 className="section__title line-top">mais projetos</h2>
                         <div className="grid portfolio-feed portfolio-feed--tiles">
                           {(curr_index !== 0) && ((() => {
                               let prev_project = projects_sorted[prev_index];

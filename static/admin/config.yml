@@ -49,6 +49,7 @@ collections:
               - blue
               - violet
               - yellow
+              - black
           - widget: select
             name: base_font
             label: Font
@@ -560,6 +561,7 @@ collections:
                 options:
                   - two
                   - three
+                  - five
               - widget: list
                 name: grid_items
                 label: Grid items
@@ -744,6 +746,7 @@ collections:
                 options:
                   - two
                   - three
+                  - five
               - widget: list
                 name: actions
                 label: Action buttons
@@ -1058,8 +1061,8 @@ collections:
     label: Blog
     files:
       - name: blog
-        label: Blog
-        file: src/pages/blog/index.md
+        label: Journal
+        file: src/pages/journal/index.md
         fields:
           - widget: string
             name: title
@@ -1085,6 +1088,7 @@ collections:
             options:
               - two
               - three
+              - five
           - widget: object
             name: seo
             label: Seo
@@ -1380,7 +1384,7 @@ collections:
       value: page
   - name: post
     label: Posts
-    folder: src/pages/blog
+    folder: src/pages/journal
     create: true
     extension: md
     identifier_field: title

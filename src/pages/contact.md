@@ -1,78 +1,74 @@
 ---
-title: Contact
+title: Contato
 hide_title: false
 sections:
   - type: form_section
     section_id: contact-form
     content: >-
-      Let’s build something great together.<br>
+      Vamos construir algo incrível??<br>
 
-      Complete our contact form or send us an email at
-      [email@example.com](mailto:email@example.com).
+      Complete o formulário de contato ou envie um e-mail para
+      [hey@eupoiese.com](mailto:hey@eupoiese.com).
 
 
       ***
 
-
-      ## Our Offices
-
-
-      ### San Francisco
-
-      1234 Some St.<br>
-
-      San Francisco, CA 12345<br>
-
-      1-234-556-7890<br>
-
-      [Get directions &rarr;](https://goo.gl/maps/eh6fn7JjMS4vYs337)
+      ## Nós estamos em
 
 
-      ### New York
+      ### São Paulo/SP
 
-      1234 Some St.<br>
+      Avenida Brigadeiro Faria Lima, 2369 - Conj. 1102 - Jardim Paulistano<br>
+      São Paulo/SP<br>
+      CEP 01452-922<br>
 
-      New York, NY 12345<br>
+      [Mapa &rarr;](https://goo.gl/maps/xvadDpCDDRioW3Ks8)
 
-      1-234-556-7890<br>
 
-      [Get directions &rarr;](https://goo.gl/maps/eh6fn7JjMS4vYs337)
+      ### Campos dos Goytacazes/RJ
+
+      Rua Tenente Coronel Cardoso, 873 - Parque Tamandaré<br>
+      Campos dos Goytacazes/RJ<br>
+      CEP 28035-042<br>
+
+      [Mapa &rarr;](https://goo.gl/maps/RSzjrePmsCVbsGvK6)
+
     form_id: contactForm
-    form_action: /thank-you
+    form_action: /obrigado
     form_fields:
       - type: form_field
         input_type: text
         name: name
-        label: Name
-        default_value: Your name
+        label: Nome
+        default_value: Seu nome
         is_required: true
       - type: form_field
         input_type: email
         name: email
         label: Email
-        default_value: Your email address
+        default_value: Seu endereço de e-mail
         is_required: true
       - type: form_field
         input_type: select
-        name: subject
-        label: What services are you looking for?
-        default_value: Please select
+        name: assunto
+        label: Quais serviços você precisa?
+        default_value: Selecione a frente
         options:
-          - Branding
-          - Design
-          - Digital
+          - Comercial/Corporativo
+          - Empreendimento
+          - Social/Cultural
+          - Residencial
       - type: form_field
         input_type: textarea
         name: message
-        label: Message
-        default_value: Your message
+        label: Mensagem
+        default_value: Sua mensagem
       - type: form_field
         input_type: checkbox
         name: consent
         label: >-
-          I understand that this form is storing my submitted information so I
-          can be contacted.
-    submit_label: Send Message
+          Eu autorizo que esse formulário guarde a informação que eu submeter para que eu seja contactado.
+    submit_label: Enviar
 seo:
   type: stackbit_page_meta
   title: Contact

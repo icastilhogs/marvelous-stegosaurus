@@ -66,6 +66,11 @@
       flex: 0 0 33.333%;
       max-width: 33.333%;
     }
+    .grid--col-five & {
+      -ms-flex: 0 0 20%;
+      flex: 0 0 20%;
+      max-width: 20%;
+    }
   }
 }
 

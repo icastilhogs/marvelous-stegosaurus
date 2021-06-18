@@ -1,4 +1,5 @@
 html {
+  font-family: 'PT Sans', sans-serif;
   font-size: 112.5%;
   height: 100%;
   min-height: 100%;
@@ -21,7 +22,7 @@ body {
   $font-suffix: "#{$font}";
 
   .font-#{$font-suffix} {
-    font-family: $stack;
+    font-family: 'PT Sans', sans-serif;
   }
 }
 
@@ -38,6 +39,7 @@ h3,
 h4,
 h5,
 h6 {
+  font-family: 'Contrail One', sans-serif;
   color: $color-gray-800;
   font-weight: bold;
   line-height: 1.1;
@@ -54,7 +56,8 @@ h6 {
 }
 
 h1 {
-  font-size: 2.44444em;
+  font-size: 5.44444em;
+  line-height: .6;
 
   @media only screen and (max-width: 600px) {
     font-size: 2.22222em;
@@ -195,7 +198,7 @@ video {
 }
 
 .js-reframe {
-  margin: 1em 0;
+  margin: 0;
 
   &:first-child {
     margin-top: 0;
@@ -209,7 +212,7 @@ img {
 }
 
 figure {
-  margin: 1em 0;
+  margin: 0;
 
   &:first-child {
     margin-top: 0;

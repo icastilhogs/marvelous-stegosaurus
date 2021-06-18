@@ -1,42 +1,42 @@
 {
-    "title": "Stackbit Agency Theme",
+    "title": "Eupoiese",
     "color_scheme": "light",
-    "accent_color": "green",
+    "accent_color": "black",
     "base_font": "fraunces",
     "header": {
         "type": "header",
-        "title": "Agency",
-        "logo": "images/logo.svg",
-        "logo_alt": "Agency logo",
+        "title": "Eupoiese",
+        "logo": "/images/eupoiese.png",
+        "logo_alt": "Eupoiese Logo",
         "has_nav": true,
         "nav_links": [
             {
                 "type": "action",
-                "label": "Home",
+                "label": "home",
                 "url": "/",
                 "style": "link"
             },
             {
                 "type": "action",
-                "label": "Work",
+                "label": "portfolio",
                 "url": "/portfolio/",
                 "style": "link"
             },
             {
                 "type": "action",
-                "label": "Journal",
-                "url": "/blog/",
+                "label": "journal",
+                "url": "/journal/",
                 "style": "link"
             },
             {
                 "type": "action",
-                "label": "About",
+                "label": "sobre",
                 "url": "/about/",
                 "style": "link"
             },
             {
                 "type": "action",
-                "label": "Contact",
+                "label": "contato",
                 "url": "/contact/",
                 "style": "button"
             }
@@ -44,42 +44,45 @@
     },
     "footer": {
         "type": "footer",
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=agency&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>",
+        "content": "© Copyright Eupoiese™. Todos os direitos reservados.",
         "has_social": true,
         "social_links": [
             {
                 "type": "action",
-                "label": "Twitter",
-                "url": "https://twitter.com/",
-                "style": "icon",
-                "icon": "twitter",
-                "new_window": true
-            },
-            {
-                "type": "action",
                 "label": "Instagram",
-                "url": "https://www.instagram.com/",
+                "url": "https://www.instagram.com/eu.poiese",
                 "style": "icon",
                 "icon": "instagram",
                 "new_window": true
             },
             {
                 "type": "action",
-                "label": "Dribbble",
-                "url": "https://dribbble.com/",
-                "style": "icon",
-                "icon": "dribbble",
-                "new_window": true
-            },
-            {
-                "type": "action",
                 "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
+                "url": "https://www.linkedin.com/company/eupoiese",
                 "style": "icon",
                 "icon": "linkedin",
                 "new_window": true
+            },
+            {
+                "label": "YouTube",
+                "url": "#",
+                "style": "icon",
+                "icon": "youtube",
+                "new_window": true,
+                "no_follow": false,
+                "type": "action"
+            },
+            {
+                "label": "Pinterest",
+                "url": "#",
+                "style": "icon",
+                "icon": "pinterest",
+                "new_window": true,
+                "no_follow": false,
+                "type": "action"
             }
         ]
     },
-    "domain": "https://marvelous-stegosaurus-bf1ec.netlify.app"
+    "domain": "https://eupoiese.com",
+    "favicon": "/images/Asset 8@0.5x.png"
 }

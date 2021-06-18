@@ -19,7 +19,7 @@ export const query = graphql`
 export default class Blog extends React.Component {
     render() {
         let col_number = _.get(this.props, 'pageContext.frontmatter.col_number', null) || 'three';
-        let posts_sorted = _.orderBy(getPages(this.props.pageContext.pages, '/blog'), 'frontmatter.date', 'desc');
+        let posts_sorted = _.orderBy(getPages(this.props.pageContext.pages, '/journal'), 'frontmatter.date', 'desc');
         return (
             <Layout {...this.props}>
             <header className={classNames('section', 'section--header', {'screen-reader-text': _.get(this.props, 'pageContext.frontmatter.hide_title', null)})}>

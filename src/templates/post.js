@@ -19,7 +19,7 @@ export const query = graphql`
 
 export default class Post extends React.Component {
     render() {
-        let posts_sorted = _.orderBy(getPages(this.props.pageContext.pages, '/blog'), 'frontmatter.date', 'desc');
+        let posts_sorted = _.orderBy(getPages(this.props.pageContext.pages, '/journal'), 'frontmatter.date', 'desc');
         let post_item_len = _.size(posts_sorted);
         return (
             <Layout {...this.props}>
@@ -63,7 +63,7 @@ export default class Post extends React.Component {
                     (post_index_length > 0) && (
                     <nav key={post_item_idx} className="section section--posts">
                       <div className="container container--lg">
-                        <h2 className="section__title line-top">Read Next</h2>
+                        <h2 className="section__title line-top">Leia também</h2>
                         <div className="grid post-feed post-feed--col-two">
                           {(curr_index !== 0) && ((() => {
                               let prev_post = posts_sorted[prev_index];
