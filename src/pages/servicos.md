@@ -95,7 +95,14 @@ sections:
       redes sociais da marca.
 
       outras informações que irão auxiliar a captarmos todos os detalhes para o
-      desenvolvimento do programa de necessidades
+      desenvolvimento do programa de necessidades.
+
+
+      Caso opte por um Projeto Executivo, gerenciaremos todos os prazos,
+      alinhando datas de projeto e obra, assim como técnicas constrututivas,
+      você irá abrir suas portas em tempo record (ok, record PROPORCIONAL ao seu
+      orçamento, rsrs)! A organização e a clareza são muito importantes para
+      nós.
     type: content_section
 seo:
   title: ''
