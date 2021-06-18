@@ -101,7 +101,9 @@
 
 
 @each $bg in map-keys($bg-color) {
-    .bg-#{$bg}
+    .bg-#{$bg} {
+        
+    }
 }
 
 @each $accent in map-keys($accent-colors) {
