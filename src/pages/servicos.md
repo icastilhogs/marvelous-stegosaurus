@@ -13,7 +13,7 @@ sections:
     subtitle: lorem-ipsum
     col_number: three
     grid_items:
-      - title: lorem-ipsum
+      - title: Comercial/Corporativo
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
