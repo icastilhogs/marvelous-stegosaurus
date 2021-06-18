@@ -392,6 +392,15 @@ collections:
             widget: object
             label: Content Section
             fields:
+              - widget: select
+                    name: style
+                    label: Style
+                    required: true
+                    default: link
+                    options:
+                      - link
+                      - button
+                      - icon
               - widget: string
                 name: section_id
                 label: ID
