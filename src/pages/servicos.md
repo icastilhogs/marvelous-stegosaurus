@@ -116,10 +116,6 @@ sections:
     type: content_section
     bg-color: gray
   - section_id: lorem-ipsum
-    image_alt: lorem-ipsum
-    bg-color: gray
-    type: content_section
-  - section_id: lorem-ipsum
     title: nossos projetos
     subtitle: Conheça nossos projetos
     layout_style: tiles
