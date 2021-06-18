@@ -371,9 +371,9 @@ models:
         label: Background color
         description: The background color of the site
         options:
-          - pink
-          - green
-          - blue
+          - white
+          - gray
+          - black
   hero_section:
     type: object
     label: Hero Section
