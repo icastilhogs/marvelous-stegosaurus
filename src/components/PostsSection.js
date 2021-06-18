@@ -9,7 +9,7 @@ export default class PostsSection extends React.Component {
     render() {
         let section = _.get(this.props, 'section', null);
         let col_number = _.get(section, 'col_number', null) || 'three';
-        let posts_sorted = _.orderBy(getPages(this.props.pageContext.pages, '/blog'), 'frontmatter.date', 'desc');
+        let posts_sorted = _.orderBy(getPages(this.props.pageContext.pages, '/journal'), 'frontmatter.date', 'desc');
         let recent_posts = posts_sorted.slice(0, _.get(section, 'posts_number', null));
         return (
             <section id={_.get(section, 'section_id', null)} className="section section--posts">
