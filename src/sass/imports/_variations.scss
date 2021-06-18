@@ -99,6 +99,11 @@
   }
 }
 
+
+@each $bg in map-keys($bg-color) {
+    
+}
+
 @each $accent in map-keys($accent-colors) {
   .accent-#{$accent} {
     .button,
