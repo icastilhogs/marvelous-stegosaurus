@@ -77,7 +77,9 @@ sections:
     type: grid_section
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >
+    content: >2
+       Eu já li que começar uma empresa é empolgante. Isso é até verdade, mas com a empolgação vem muita ansiedade, preocupações, contas e escolhas difíceis. Precisamos sentirmo-nos seguros e amparados para desfrutarmos desse momento e, o mais importante, construir raízes fortes para crescer, desenvolvendo todo nosso potencial para perdurarmos mesmo durante as crises. Elas virão (aceita que dói menos).
+
       Como profissionais responsáveis e qualificados, estaremos ao seu lado
       durante a materialização dos seus sonhos e projetos de vida. Queremos
       viver essas emoções contigo e fazer parte do nascimento (ou nova fase) do
