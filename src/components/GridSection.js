@@ -9,7 +9,7 @@ export default class GridSection extends React.Component {
         let section = _.get(this.props, 'section', null);
         let col_number = _.get(section, 'col_number', null) || 'three';
         return (
-            <section id={_.get(section, 'section_id', null)} className="section section--grid" className={"section section--text bg-" + _.get(section, 'bg-color', null)}>
+            <section id={_.get(section, 'section_id', null)} className="section section--grid" className={"section section--grid bg-" + _.get(section, 'bg-color', null)}>
               <div className="container container--lg">
                 {_.get(section, 'title', null) && (
                 <h2 className="section__title line-top">{_.get(section, 'title', null)}</h2>
