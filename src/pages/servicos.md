@@ -90,17 +90,14 @@ sections:
     title: lorem-ipsum
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: >
+      Para começar a projetar, precisamos entender todas as necessidades e
+      dinâmicas de trabalho da sua empresa. Coletaremos todas as informações
+      gráficas disponíveis, tais quais logotipo, manual de identidade visual e
+      redes sociais da marca.
 
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      outras informações que irão auxiliar a captarmos todos os detalhes para o
+      desenvolvimento do programa de necessidades
     type: content_section
 seo:
   title: ''
