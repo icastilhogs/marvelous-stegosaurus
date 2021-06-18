@@ -336,15 +336,6 @@ collections:
                 label: Content
                 required: false
                 hint: The text content of the section
-              - widget: select
-                name: bg-color
-                label: Background Color
-                required: false
-                default: white
-                options:
-                  - white
-                  - gray
-                  - black
               - widget: list
                 name: actions
                 label: Action buttons
