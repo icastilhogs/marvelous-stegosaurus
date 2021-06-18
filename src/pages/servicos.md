@@ -20,7 +20,9 @@ sections:
     type: content_section
   - section_id: lorem-ipsum
     title: as frentes
-    subtitle: lorem-ipsum
+    subtitle: >-
+      Nossas principais frentes são direcionadas a empreendedores e/ou
+      incorporadores
     col_number: three
     grid_items:
       - title: Comercial/Corporativo
