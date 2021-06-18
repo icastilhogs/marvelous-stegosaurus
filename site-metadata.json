@@ -29,6 +29,15 @@
                 "style": "link"
             },
             {
+                "label": "serviços",
+                "url": "/servicos",
+                "style": "link",
+                "icon": "dribbble",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            },
+            {
                 "type": "action",
                 "label": "sobre",
                 "url": "/about/",
@@ -39,15 +48,6 @@
                 "label": "contato",
                 "url": "/contact/",
                 "style": "button"
-            },
-            {
-                "label": "serviços",
-                "url": "/servicos",
-                "style": "link",
-                "icon": "dribbble",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
             }
         ]
     },
