@@ -7,7 +7,7 @@ export default class ContentSection extends React.Component {
     render() {
         let section = _.get(this.props, 'section', null);
         return (
-            <section id={_.get(section, 'section_id', null)} className={"section section--text" + _.get(this.props, 'pageContext.site.siteMetadata.bg_color', null)}>
+            <section id={_.get(section, 'section_id', null)} className={"section section--text" + _.get(section, 'title', null}>
               <div className="container container--lg">
                 {_.get(section, 'title', null) && (
                 <h2 className="section__title line-top">{_.get(section, 'title', null)}</h2>
