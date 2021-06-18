@@ -366,7 +366,7 @@ models:
         name: title
         label: Title
         description: The title of the section
-            - type: enum
+      - type: enum
         name: accent_color
         label: Accent color
         description: The accent color of the site
