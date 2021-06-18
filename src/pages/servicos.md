@@ -68,7 +68,6 @@ sections:
       portfolio e conheça nossas histórias de destaque.
     type: content_section
   - section_id: lorem-ipsum
-    subtitle: o briefing
     image_alt: lorem-ipsum
     content: >+
       Todo projeto começa com um briefing muito detalhado e longas conversas
