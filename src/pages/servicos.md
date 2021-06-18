@@ -70,13 +70,45 @@ sections:
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >+
-      Todo projeto começa com um briefing muito detalhado e longas conversas
-      gostosas promovidas a café ou outro aperitivo de sua preferência. Nãoo
-      guarde detalhes que parecerem irrelevantes - tudo fará a diferença para
-      montarmos o programa de necessidades perfeito e darmos à luz ao conceito
+      #### o briefing
+
+
+      É dada a largada a partir de um briefing muito detalhado e longas
+      conversas gostosas promovidas a café ou outro aperitivo de sua
+      preferência. Nãooo guarde detalhes que pareçam irrelevantes - tudo fará a
+      diferença para montarmos o programa de necessidades perfeito e darmos à
+      luz ao conceito
 
 
       #### o conceito
+
+
+      Aqui o seu projeto, de fato, ganha um DNA. Esse código é o responsável
+      pelos fenótipos (as pessoas normais chamam de *partido*, só para ficar
+      claro) que apreciaremos. O conceito é a direção que nos guiará e
+      responderá a todas as dúvidas que surgirem durante a projetação. É ele
+      também que faz do seu projeto único. É o porquê dos porquês. 
+
+
+      #### o partido
+
+
+      É como o conceito, abstração, se materializa no mundo físico, como somos
+      capazes de honrá-lo. Os partidos podem se alterar com mais facilidade que
+      o conceito, e respondem a muitas outras variáveis. 
+
+
+      #### abra as portas
+
+
+      Caso estajamos muito distantes, terminando o ciclo criativo, encaminhamos
+      seu projeto para um de nossos parceiros de confiança e excelência para uma
+      documentação executiva completa e sem dores de cabeça! Você está pronto
+      para abrir as portas do seu novo negócio?
+
+
+      Veja sua poesia virando arquitetura, ou o oposto, tanto faz. Leia as
+      instruções e preencha nosso pré-briefing e entraremos em contato com você.
 
     type: content_section
   - section_id: lorem-ipsum
