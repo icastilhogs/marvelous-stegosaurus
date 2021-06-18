@@ -15,7 +15,7 @@ sections:
     grid_items:
       - title: Comercial/Corporativo
         subtitle: lorem-ipsum
-        image_alt: lorem-ipsum
+        image_alt: Corporativo
         content: >-
           ## Lorem ipsum
 
