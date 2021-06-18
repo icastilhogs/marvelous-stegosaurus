@@ -107,7 +107,7 @@ sections:
     type: content_section
   - section_id: lorem-ipsum
     title: nossos projetos
-    subtitle: lorem-ipsum
+    subtitle: Conheça nossos projetos
     layout_style: mosaic
     projects_number: 0
     view_all_label: lorem-ipsum
