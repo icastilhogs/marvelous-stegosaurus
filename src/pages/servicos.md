@@ -23,6 +23,7 @@ sections:
     subtitle: >-
       Nossas principais frentes são direcionadas a empreendedores e/ou
       incorporadores
+    bg-color: gray
     col_number: three
     grid_items:
       - title: Comercial/Corporativo
