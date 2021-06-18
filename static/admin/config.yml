@@ -396,11 +396,11 @@ collections:
                     name: bg-color
                     label: Background Color
                     required: false
-                    default: link
+                    default: white
                     options:
-                      - link
-                      - button
-                      - icon
+                      - white
+                      - gray
+                      - black
               - widget: string
                 name: section_id
                 label: ID
