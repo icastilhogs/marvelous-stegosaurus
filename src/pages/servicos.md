@@ -24,7 +24,9 @@ sections:
     col_number: three
     grid_items:
       - title: Comercial/Corporativo
-        subtitle: lorem-ipsum
+        subtitle: >-
+          Prédios, condomínios/parcelamentos, aeroporto, hospitais, shoppings,
+          fazendas
         image_alt: Corporativo
         content: >-
           ## Lorem ipsum
