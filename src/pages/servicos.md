@@ -46,6 +46,7 @@ sections:
           - dolor sit amet
         actions: []
         type: grid_item
+        image: /images/portfolio/gardenia/003.png
       - title: Social/Cultural
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
