@@ -24,9 +24,7 @@ sections:
     col_number: three
     grid_items:
       - title: Comercial/Corporativo
-        subtitle: >-
-          Prédios, condomínios/parcelamentos, aeroporto, hospitais, shoppings,
-          fazendas
+        subtitle: 'ojas, consultórios, escritórios, estúdios'
         image_alt: Corporativo
         content: >-
           ## Lorem ipsum
