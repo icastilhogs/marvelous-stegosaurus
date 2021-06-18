@@ -27,14 +27,7 @@ sections:
           - Lorem ipsum
 
           - dolor sit amet
-        actions:
-          - label: saiba mais
-            url: '#'
-            style: button
-            icon: dribbble
-            new_window: false
-            no_follow: false
-            type: action
+        actions: []
         type: grid_item
         image: /images/portfolio/feuer/002.png
       - title: Empreendimentos
