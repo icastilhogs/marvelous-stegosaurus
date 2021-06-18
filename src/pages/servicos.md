@@ -42,7 +42,7 @@ sections:
         image: /images/portfolio/feuer/002.png
       - title: Empreendimentos
         subtitle: >-
-          Prédios, condomínios/parcelamentos, aeroporto, hospitais, shoppings,
+          prédios, condomínios/parcelamentos, aeroporto, hospitais, shoppings,
           fazendas
         image_alt: lorem-ipsum
         content: >-
