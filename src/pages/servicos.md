@@ -16,12 +16,7 @@ sections:
 
 
       As nossas principais frentes são direcionadas a empreendedores e/ou
-      incorporadores. Eu já li que começar uma empresa é empolgante. Isso é até
-      verdade, mas com a empolgação vem muita ansiedade, preocupações, contas e
-      escolhas difíceis. Precisamos sentirmo-nos seguros e  amparados para
-      desfrutarmos desse momento e, o mais importante, construir raízes fortes
-      para crescer, desenvolvendo todo nosso potencial para perdurarmos mesmo
-      durante as crises. Elas virão (aceita que dói menos).
+      incorporadores.
     type: content_section
   - section_id: lorem-ipsum
     title: as frentes
