@@ -84,7 +84,7 @@ sections:
     title: lorem-ipsum
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
-    content: "Para começar a projetar, precisamos entender todas as necessidades e dinâmicas de trabalho da sua empresa. Coletaremos todas as informações gráficas disponíveis, tais quais logotipo, manual de identidade visual e redes sociais da marca.\r\noutras informações que irão auxiliar a captarmos todos os detalhes para o desenvolvimento do programa de necessidades.\n"
+    content: "Como profissionais responsáveis e qualificados, estaremos ao seu lado durante a materialização dos seus sonhos e projetos de vida. Queremos viver essas emoções contigo e fazer parte do nascimento (ou nova fase) do negócio/empreendimento, potencializando seus pontos fortes, prezando a excelência dos processos que se realizam no espaço, para que, ao entrar na vida de inúmeras outras pessoas, sua empresa seja lembrada pelo conforto, acolhimento, excelência e humanidade que conecta e provoca memórias afetivas.\n\nQue o trabalho seja sagrado, feliz e edificante dentro de um espaço de alto desempenho e indicadores de qualidade ambiental de excelência.\nQuer saber mais sobre os nossos projetos? Acesse a nossa página de portfolio e conheça nossas histórias de destaque.\n\nA fim de pôr as mãos à obra? Veja sua poesia virando arquitetura, ou o oposto, tanto faz. Leia as instruções e preencha nosso pré-briefing e entraremos em contato com você.\_\n"
     type: content_section
 seo:
   title: ''
