@@ -69,6 +69,7 @@ sections:
       Quer saber mais sobre os nossos projetos? Acesse a nossa página de
       portfolio e conheça nossas histórias de destaque.
     type: content_section
+    bg-color: gray
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     bg-color: gray
