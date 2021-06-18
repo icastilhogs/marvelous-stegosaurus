@@ -324,13 +324,13 @@ collections:
                 hint: The title of the section
               - widget: select
                 name: bg-color
-                    label: Background Color
-                    required: false
-                    default: white
-                    options:
-                      - white
-                      - gray
-                      - black
+                label: Background Color
+                required: false
+                default: white
+                options:
+                  - white
+                  - gray
+                  - black
               - widget: markdown
                 name: content
                 label: Content
