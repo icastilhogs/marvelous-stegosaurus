@@ -418,7 +418,7 @@ collections:
                 options:
                   - white
                   - gray
-                 - black
+                  - black
               - widget: string
                 name: section_id
                 label: ID
