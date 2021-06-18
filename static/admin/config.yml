@@ -400,7 +400,7 @@ collections:
           - name: content_section
             widget: object
             label: Content Section
-                          - widget: select
+          - widget: select
                 name: bg-color
                 label: Background Color
                 required: false
