@@ -24,7 +24,7 @@ sections:
     col_number: three
     grid_items:
       - title: Comercial/Corporativo
-        subtitle: 'ojas, consultórios, escritórios, estúdios'
+        subtitle: 'lojas, consultórios, escritórios, estúdios'
         image_alt: Corporativo
         content: >-
           ## Lorem ipsum
