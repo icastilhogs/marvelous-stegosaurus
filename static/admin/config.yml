@@ -393,9 +393,9 @@ collections:
             label: Content Section
             fields:
               - widget: select
-                    name: style
-                    label: Style
-                    required: true
+                    name: bg-color
+                    label: Background Color
+                    required: false
                     default: link
                     options:
                       - link
