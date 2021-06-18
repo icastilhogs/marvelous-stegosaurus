@@ -9,7 +9,7 @@ export default class PortfolioSection extends React.Component {
         let section = _.get(this.props, 'section', null);
         let layout_style = _.get(section, 'layout_style', null) || 'mosaic';
         let projects_sorted = _.orderBy(getPages(this.props.pageContext.pages, '/portfolio'), 'frontmatter.date', 'desc');
-        let projects_recent = projects_sorted.slice(0, _.get(section, 'projects_number', null) || 3);
+        let projects_recent = projects_sorted.slice(0, _.get(section, 'projects_number', null) || 2);
         let project_len = _.size(projects_recent);
         return (
             <section id={_.get(section, 'section_id', null)} className="section section--portfolio">
