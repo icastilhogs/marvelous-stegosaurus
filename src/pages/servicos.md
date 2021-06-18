@@ -81,7 +81,6 @@ sections:
         image: /images/museu-02.jpg
     type: grid_section
   - section_id: lorem-ipsum
-    subtitle: lorem-ipsum
     image_alt: lorem-ipsum
     content: "Como profissionais responsáveis e qualificados, estaremos ao seu lado durante a materialização dos seus sonhos e projetos de vida. Queremos viver essas emoções contigo e fazer parte do nascimento (ou nova fase) do negócio/empreendimento, potencializando seus pontos fortes, prezando a excelência dos processos que se realizam no espaço, para que, ao entrar na vida de inúmeras outras pessoas, sua empresa seja lembrada pelo conforto, acolhimento, excelência e humanidade que conecta e provoca memórias afetivas.\n\nQue o trabalho seja sagrado, feliz e edificante dentro de um espaço de alto desempenho e indicadores de qualidade ambiental de excelência.\nQuer saber mais sobre os nossos projetos? Acesse a nossa página de portfolio e conheça nossas histórias de destaque.\n\nA fim de pôr as mãos à obra? Veja sua poesia virando arquitetura, ou o oposto, tanto faz. Leia as instruções e preencha nosso pré-briefing e entraremos em contato com você.\_\n"
     type: content_section
