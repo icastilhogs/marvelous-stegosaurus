@@ -44,7 +44,7 @@
     },
     "footer": {
         "type": "footer",
-        "content": "Eupoiese LTDA - CNPJ 42.294.032/0001-97<br>Avenida Brigadeiro Faria Lima, 2369 - Conj. 1102 Jardim Paulista - São Paulo/SPCEP 01452-922<br>© Copyright Eupoiese™. Todos os direitos reservados.",
+        "content": "Eupoiese LTDA - CNPJ 42.294.032/0001-97<br>Avenida Brigadeiro Faria Lima, 2369 - Conj. 1102 Jardim Paulista - São Paulo/SP <br>CEP 01452-922<br>© Copyright Eupoiese™. Todos os direitos reservados.",
         "has_social": true,
         "social_links": [
             {
