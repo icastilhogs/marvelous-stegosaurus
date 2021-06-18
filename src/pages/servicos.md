@@ -110,7 +110,7 @@ sections:
     subtitle: Conheça nossos projetos
     layout_style: tiles
     projects_number: 2
-    view_all_label: lorem-ipsum
+    view_all_label: ver todos
     view_all_url: '#'
     type: portfolio_section
 seo:
