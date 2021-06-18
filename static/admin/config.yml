@@ -411,14 +411,14 @@ collections:
                   - black
             fields:
               - widget: select
-                    name: bg-color
-                    label: Background Color
-                    required: false
-                    default: white
-                    options:
-                      - white
-                      - gray
-                      - black
+                name: bg-color
+                label: Background Color
+                required: false
+                default: white
+                options:
+                  - white
+                  - gray
+                 - black
               - widget: string
                 name: section_id
                 label: ID
