@@ -452,7 +452,7 @@ collections:
             widget: object
             label: CTA Section
             fields:
-            - widget: select
+              - widget: select
                 name: bg-color
                 label: Background Color
                 required: false
