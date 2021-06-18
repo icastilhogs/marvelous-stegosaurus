@@ -50,8 +50,14 @@ sections:
     type: grid_section
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >2
-       Eu já li que começar uma empresa é empolgante. Isso é até verdade, mas com a empolgação vem muita ansiedade, preocupações, contas e escolhas difíceis. Precisamos sentirmo-nos seguros e amparados para desfrutarmos desse momento e, o mais importante, construir raízes fortes para crescer, desenvolvendo todo nosso potencial para perdurarmos mesmo durante as crises. Elas virão (aceita que dói menos).
+    content: >
+      Eu já li que começar uma empresa é empolgante. Isso é até verdade, mas com
+      a empolgação vem muita ansiedade, preocupações, contas e escolhas
+      difíceis. Precisamos sentirmo-nos seguros e amparados para desfrutarmos
+      desse momento e, o mais importante, construir raízes fortes para crescer,
+      desenvolvendo todo nosso potencial para perdurarmos mesmo durante as
+      crises. Elas virão (aceita que dói menos).
+
 
       Como profissionais responsáveis e qualificados, estaremos ao seu lado
       durante a materialização dos seus sonhos e projetos de vida. Queremos
@@ -63,11 +69,50 @@ sections:
       afetivas.
 
 
+      #### o briefing
+
+
+      É dada a largada a partir de um briefing muito detalhado e longas
+      conversas gostosas promovidas a café ou outro aperitivo de sua
+      preferência. Nãooo guarde detalhes que pareçam irrelevantes - tudo fará a
+      diferença para montarmos o programa de necessidades perfeito e darmos à
+      luz ao conceito
+
+
+      #### o conceito
+
+
+      Aqui o seu projeto, de fato, ganha um DNA. Esse código é o responsável
+      pelos fenótipos (as pessoas normais chamam de *partido*, só para ficar
+      claro) que apreciaremos. O conceito é a direção que nos guiará e
+      responderá a todas as dúvidas que surgirem durante a projetação. É ele
+      também que faz do seu projeto único. É o porquê dos porquês.
+
+
+      #### o partido
+
+
+      É como o conceito, abstração, se materializa no mundo físico, como somos
+      capazes de honrá-lo. Os partidos podem se alterar com mais facilidade que
+      o conceito, e respondem a muitas outras variáveis.
+
+
+      #### abra as portas
+
+
+      Caso estajamos muito distantes, terminando o ciclo criativo, encaminhamos
+      seu projeto para um de nossos parceiros de confiança e excelência para uma
+      documentação executiva completa e sem dores de cabeça! Você está pronto
+      para abrir as portas do seu novo negócio?
+
+
       Que o trabalho seja sagrado, feliz e edificante dentro de um espaço de
       alto desempenho e indicadores de qualidade ambiental de excelência.
 
       Quer saber mais sobre os nossos projetos? Acesse a nossa página de
-      portfolio e conheça nossas histórias de destaque.
+      portfolio e conheça nossas histórias de destaque. Veja sua poesia virando
+      arquitetura, ou o oposto, tanto faz. Leia as instruções e preencha nosso
+      pré-briefing e entraremos em contato com você.
     type: content_section
     bg-color: gray
   - section_id: lorem-ipsum
