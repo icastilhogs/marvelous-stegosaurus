@@ -111,7 +111,7 @@ sections:
     layout_style: tiles
     projects_number: 2
     view_all_label: ver todos
-    view_all_url: '#'
+    view_all_url: /portfolio
     type: portfolio_section
 seo:
   title: ''
