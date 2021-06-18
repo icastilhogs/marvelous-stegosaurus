@@ -105,6 +105,14 @@ sections:
     image_alt: lorem-ipsum
     content: "Para começar a projetar, precisamos entender todas as necessidades e dinâmicas de trabalho da sua empresa. Coletaremos todas as informações gráficas disponíveis, tais quais logotipo, manual de identidade visual e redes sociais da marca.\noutras informações que irão auxiliar a captarmos todos os detalhes para o desenvolvimento do programa de necessidades.\n\nCaso opte por um Projeto Executivo, gerenciaremos todos os prazos, alinhando datas de projeto e obra, assim como técnicas constrututivas, você irá abrir suas portas em tempo record (ok, record PROPORCIONAL ao seu orçamento, rsrs)! A organização e a clareza são muito importantes para nós.\n\nA fim de pôr as mãos à obra? Veja sua poesia virando arquitetura, ou o oposto, tanto faz. Leia as instruções e preencha nosso pré-briefing e entraremos em contato com você.\_\n"
     type: content_section
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    layout_style: mosaic
+    projects_number: 0
+    view_all_label: lorem-ipsum
+    view_all_url: '#'
+    type: portfolio_section
 seo:
   title: ''
   description: ''
