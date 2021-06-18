@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: lorem-ipsum
     title: serviços
-    subtitle: lorem-ipsum
+    subtitle: Conheça nossas principais frentes de serviço
     image_alt: lorem-ipsum
     content: >
       Vamos começar assim: somos diferentes e seu projeto também será. Sendo
