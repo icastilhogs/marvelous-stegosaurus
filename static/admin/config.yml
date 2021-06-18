@@ -400,6 +400,15 @@ collections:
           - name: content_section
             widget: object
             label: Content Section
+                          - widget: select
+                name: bg-color
+                label: Background Color
+                required: false
+                default: white
+                options:
+                  - white
+                  - gray
+                  - black
             fields:
               - widget: select
                     name: bg-color
