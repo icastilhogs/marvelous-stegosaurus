@@ -562,6 +562,15 @@ collections:
             widget: object
             label: Grid Section
             fields:
+              - widget: select
+                name: bg-color
+                label: Background Color
+                required: true
+                default: white
+                options:
+                  - white
+                  - gray
+                  - black
               - widget: string
                 name: section_id
                 label: ID
