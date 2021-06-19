@@ -111,9 +111,9 @@
 
         &:nth-child(4n+2),
         &:nth-child(4n+3) {
-          -ms-flex: 0 0 5%;
+          -ms-flex: 0 0 50%;
           flex: 0 0 auto;
-          max-width: 45%;
+          max-width: 50%;
 
           .project-card__image {
             &:before {
