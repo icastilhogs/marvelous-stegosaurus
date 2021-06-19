@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Serviços
 hide_title: true
 sections:
   - section_id: lorem-ipsum
