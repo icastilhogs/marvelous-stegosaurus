@@ -2,6 +2,14 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Contrail+One&display=swap');
 
+@font-face {
+	font-family: 'MyFontFamily';
+	src: url('myfont-webfont.eot?#iefix') format('embedded-opentype'), 
+	     url('myfont-webfont.woff') format('woff'), 
+	     url('myfont-webfont.ttf')  format('truetype'),
+	     url('myfont-webfont.svg#svgFontName') format('svg');
+	}
+
 // Fonts
 $fonts: (
   fraunces: ("Fraunces", serif),
