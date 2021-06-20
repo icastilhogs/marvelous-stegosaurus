@@ -1,7 +1,7 @@
 ---
 title: Tule e café
 subtitle: 'Uma loja para te lembrar que mulheres não são produtos, pra variar'
-date: '2021-03-10'
+date: '2020-03-10'
 thumb_image: images/portfolio/ouzatta/001.png
 thumb_image_alt: Aimi preview
 sections:

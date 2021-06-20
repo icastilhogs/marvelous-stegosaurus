@@ -4,10 +4,9 @@
 
 @font-face {
 	font-family: 'DallianceScript';
-	src: url(/../static/fonts/DallianceScript.TTF) format('truetype'),
-         url(/../static/fonts/DallianceScript.woff) format('woff'),
-         url(/../static/fonts/DallianceScript.woff2) format('woff2'),
-         url(/../static/fonts/DallianceScript.svg) format('svg');
+	src:   url('../../static/fonts/DallianceScript.woff') format('woff'),
+         url('../../static/fonts/DallianceScript.woff2') format('woff2'),
+         url('../../static/fonts/DallianceScript.svg') format('svg');
     font-weight: normal;
     font-style: normal;
 	}
@@ -45,7 +44,7 @@ $accent-colors: (
 $bg-color: (
     black: #000000,
     white: #ffffff,
-    gray:  #fdfdfd,
+    gray:  #d4d4d4,
 );
 
 // Container max width

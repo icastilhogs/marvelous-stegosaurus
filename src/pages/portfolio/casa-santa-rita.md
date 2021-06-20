@@ -2,11 +2,11 @@
 title: Brotando espaço
 subtitle: 'Nesta reforma, mantendo a área construída a sensação espacial quadruplicou!'
 date: '2021-02-06'
-thumb_image: images/work-photography-magazine-1-thumb.jpg
+thumb_image: images/portfolio/santa-rita/001.jpg
 thumb_image_alt: Subtle preview
 sections:
   - type: image_section
-    image: images/work-photography-magazine-1.jpg
+    image: images/portfolio/santa-rita/001.jpg
     image_alt: Subtle 1
     caption: This is the caption of the image
     width: wide
@@ -19,13 +19,13 @@ sections:
       casa nunca realmente ficou pronta. E sabe, geralmente casas nunca ficam
       prontas. 
   - type: image_section
-    image: images/work-photography-magazine-2.jpg
+    image: images/portfolio/santa-rita/002.jpg
     image_alt: Subtle 2
     width: wide
   - type: text_section
     content: "Elas caminham junto conosco, em todas as nossas fases, adaptando-se a brinquedos e retalhos no chão a porcelanatos polidos e reluzentes com cantos tristes e vazios.\_Depois de tantas etapas, cores e histórias vividas, salas de jantar demolidas para acomodar mais filhos, essa casa chegou a forma que lhes apresento. Transformou-se. A garagem apertadinha finalmente cresceu. O andar de cima finalmente entrou na casa. A piscina, que um dia já existiu e um dia já foi embora, voltou.\n"
   - type: image_section
-    image: images/work-photography-magazine-3.jpg
+    image: images/portfolio/santa-rita/003.jpg
     image_alt: Subtle 3
     width: wide
   - type: text_section
