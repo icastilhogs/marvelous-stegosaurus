@@ -2,7 +2,7 @@
 title: Tule e café
 subtitle: Para o dia de noiva perfeito
 date: '2020-03-10'
-thumb_image: /images/Fotos_1---Photo.jpg
+thumb_image: /images/portfolio/tule-e-cafe/001.jpg
 thumb_image_alt: Aimi preview
 sections:
   - type: text_section
