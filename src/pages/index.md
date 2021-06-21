@@ -66,7 +66,9 @@ sections:
         content: |
           *   Projetista
 
-          *   Artista 3D
+          *   Especialista em BIM
+
+          *   Artista 3D/4D
   - type: cta_section
     section_id: cta
     title: Vamos trabalhar juntos!
