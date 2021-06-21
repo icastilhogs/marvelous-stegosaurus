@@ -23,6 +23,18 @@ sections:
     image: images/portfolio/gardenia/003.jpg
     image_alt: Design Is One 3
     width: wide
+  - content: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    type: text_section
   - type: image_section
     image: images/portfolio/gardenia/004.jpg
     image_alt: Design Is One 3
@@ -88,18 +100,6 @@ sections:
       vencendo grandes vãos por custos
       baixos.
 
-  - content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
-    type: text_section
 seo:
   type: stackbit_page_meta
   title: Maternidade Gardênia
