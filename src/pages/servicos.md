@@ -40,7 +40,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: grid_item
-        image: /images/portfolio/gardenia/003.png
+        image: /images/portfolio/gardenia/001.jpg
       - title: Social/Cultural
         subtitle: 'parques, praças, museus'
         image_alt: lorem-ipsum
