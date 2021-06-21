@@ -55,11 +55,11 @@ sections:
         title: Isabela
         image: images/isabela.png
         content: |
-          *   Direção criativa
+          1.  Direção criativa
 
-          *   Pesquisa e insight
+          2.  Pesquisa e insight
 
-          *   Gerenciamento de projetos
+          3.  Gerenciamento de projetos
       - type: grid_item
         title: Moisés
         image: images/iago.png
