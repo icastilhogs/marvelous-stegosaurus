@@ -8,7 +8,7 @@ sections:
   - type: image_section
     image: images/portfolio/gardenia/001.jpg
     image_alt: Design Is One 1
-    caption: This is the caption of the image
+    caption: Cobertura de superfície ativa
     width: wide
   - type: text_section
     content: "Vida é alegria. E a essência da alegria é a viva. E para trazer vida tentamos imitar a natureza usando um de seus princípios fundamentais de crescimento: a geometria fractal. Hospitais crescem e precisam se adaptar constantemente, portanto, a estrutura modular pensada não amarra a volumetria a uma forma final pronta, já que é constituída de células autosimilares.\_O partido foi a otimização de fluxos, unindo as células hexagonais e adaptando-as.\_\n"
