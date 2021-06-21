@@ -32,7 +32,7 @@ sections:
         image_alt: Corporativo
         actions: []
         type: grid_item
-        image: /images/portfolio/feuer/002.png
+        image: /images/portfolio/feuer/001.jpg
       - title: Empreendimentos
         subtitle: >-
           prédios, condomínios/parcelamentos, aeroporto, hospitais, shoppings,
