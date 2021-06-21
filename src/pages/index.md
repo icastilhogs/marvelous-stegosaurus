@@ -61,7 +61,7 @@ sections:
 
           *   Gerenciamento de projetos
       - type: grid_item
-        title: Moisés
+        title: Moisés Soares
         image: images/iago.png
         content: |
           *   Projetista
