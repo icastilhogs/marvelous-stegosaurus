@@ -98,6 +98,7 @@ sections:
     caption: lorem-ipsum
     width: regular
     type: image_section
+    image: /images/gardenia-05.JPG
 seo:
   type: stackbit_page_meta
   title: Maternidade Gardênia
