@@ -44,15 +44,6 @@
                 "style": "link"
             },
             {
-                "label": "loja BIM",
-                "url": "https://laboratoriobim.company.site",
-                "style": "link",
-                "icon": "dribbble",
-                "new_window": true,
-                "no_follow": false,
-                "type": "action"
-            },
-            {
                 "type": "action",
                 "label": "contato",
                 "url": "/contact/",
