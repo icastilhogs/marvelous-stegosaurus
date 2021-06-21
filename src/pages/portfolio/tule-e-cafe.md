@@ -78,7 +78,7 @@ sections:
     type: image_section
     image: /images/portfolio/tule-e-cafe/004.jpg
   - image_alt: lorem-ipsum
-    caption: lorem-ipsum
+    caption: Fachada técnica
     width: regular
     type: image_section
     image: /images/portfolio/tule-e-cafe/005.jpg
