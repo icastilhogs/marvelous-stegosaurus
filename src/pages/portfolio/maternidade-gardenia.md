@@ -29,19 +29,6 @@ sections:
     image: images/portfolio/gardenia/003.jpg
     image_alt: Design Is One 3
     width: wide
-  - image_alt: lorem-ipsum
-    caption: Imagens com representações fractais
-    width: wide
-    type: image_section
-    image: /images/gardenia-05.JPG
-  - type: image_section
-    image: images/portfolio/gardenia/004.jpg
-    image_alt: Design Is One 3
-    width: wide
-  - type: image_section
-    image: images/portfolio/gardenia/005.jpg
-    image_alt: Design Is One 3
-    width: wide
   - type: text_section
     content: |+
       A alegria como estado vibracional
@@ -95,6 +82,19 @@ sections:
       vencendo grandes vãos por custos
       baixos.
 
+  - image_alt: lorem-ipsum
+    caption: Imagens com representações fractais
+    width: wide
+    type: image_section
+    image: /images/gardenia-05.JPG
+  - type: image_section
+    image: images/portfolio/gardenia/004.jpg
+    image_alt: Design Is One 3
+    width: wide
+  - type: image_section
+    image: images/portfolio/gardenia/005.jpg
+    image_alt: Design Is One 3
+    width: wide
   - type: image_section
     image: images/portfolio/gardenia/006.jpg
     image_alt: Design Is One 3
