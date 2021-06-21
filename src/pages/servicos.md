@@ -33,6 +33,8 @@ sections:
         actions: []
         type: grid_item
         image: /images/portfolio/feuer/001.jpg
+        content: |
+          Voltado para empreendedores que buscam 
       - title: Empreendimentos
         subtitle: >-
           prédios, condomínios/parcelamentos, aeroporto, hospitais, shoppings,
