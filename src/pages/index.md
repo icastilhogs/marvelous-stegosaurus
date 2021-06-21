@@ -62,7 +62,7 @@ sections:
           *   Gerenciamento de projetos
       - type: grid_item
         title: Moisés Soares
-        image: /images/9367.jpg
+        image: /images/energetic-sparrow.jpg
         content: |
           *   Projetista
 
