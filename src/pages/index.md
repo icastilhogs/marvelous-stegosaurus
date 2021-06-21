@@ -52,7 +52,7 @@ sections:
     col_number: three
     grid_items:
       - type: grid_item
-        title: Isabela
+        title: Isabela Castilho
         image: images/isabela.png
         content: |
           *   Direção criativa
