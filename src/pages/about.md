@@ -52,7 +52,7 @@ sections:
             new_window: true
           - label: lorem-ipsum
             url: 'https://www.instagram.com/moisesoarquiteto'
-            style: link
+            style: icon
             icon: dribbble
             new_window: false
             no_follow: false
