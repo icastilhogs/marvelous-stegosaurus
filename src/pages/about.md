@@ -54,7 +54,7 @@ sections:
             url: 'https://www.instagram.com/moisesoarquiteto'
             style: icon
             icon: instagram
-            new_window: false
+            new_window: true
             no_follow: false
             type: action
   - section_id: instituicao
