@@ -50,6 +50,13 @@ sections:
             style: icon
             icon: twitter
             new_window: true
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon: dribbble
+            new_window: false
+            no_follow: false
+            type: action
   - section_id: instituicao
     title: onde estivemos
     subtitle: Instituições que fizeram parte da nossa jornada
