@@ -95,7 +95,7 @@ sections:
     image_alt: Design Is One 3
     width: wide
   - image_alt: lorem-ipsum
-    caption: lorem-ipsum
+    caption: Imagens com representações fractais
     width: wide
     type: image_section
     image: /images/gardenia-05.JPG
