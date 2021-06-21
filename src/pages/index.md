@@ -59,7 +59,7 @@ sections:
 
           *   Pesquisa e insight
 
-          *   Gerenciamento de projetos
+          *   Gerenciamento de projetos BIM
       - type: grid_item
         title: Moisés Soares
         image: /images/energetic-sparrow.jpg
