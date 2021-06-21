@@ -126,7 +126,7 @@ sections:
       sua poesia virando arquitetura, ou o oposto, tanto faz. Leia as instruções
       e preencha nosso pré-briefing e entraremos em contato com você.
     type: content_section
-    bg-color: gray
+    bg-color: white
   - section_id: lorem-ipsum
     title: nossos projetos
     subtitle: Conheça nossos projetos
