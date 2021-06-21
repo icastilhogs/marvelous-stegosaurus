@@ -12,7 +12,7 @@ sections:
     col_number: three
     grid_items:
       - type: grid_item
-        title: Isabela
+        title: Isabela Castilho
         subtitle: Arquiteta e Urbanista
         image: images/isabela.png
         content: >
