@@ -6,7 +6,6 @@ thumb_image: /images/Fotos_1---Photo.jpg
 thumb_image_alt: Aimi preview
 sections:
   - type: image_section
-    image: /images/portfolio/tule-e-cafe/001.jpg
     image_alt: Aimi 1
     caption: This is the caption of the image
     width: wide
