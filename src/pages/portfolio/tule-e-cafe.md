@@ -41,6 +41,7 @@ sections:
     image: /images/portfolio/tule-e-cafe/002.jpg
     image_alt: Aimi 3
     width: regular
+    caption: Bar com doces
   - type: text_section
     content: >-
       A paleta de cores girly é basicamente formada por tons pastel, indo do
