@@ -22,8 +22,9 @@ sections:
     image_alt: Design Is One 2
     width: wide
   - type: text_section
-    content: |
-      O ambulatório é solto como uma varanda.
+    content: >
+      O ambulatório é solto como uma varanda. Assim, a estadia nas salas de
+      espera por grávidas e crianças de colo fica menos massante. 
   - type: image_section
     image: images/portfolio/gardenia/003.jpg
     image_alt: Design Is One 3
