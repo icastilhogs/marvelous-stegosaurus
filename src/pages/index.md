@@ -65,6 +65,7 @@ sections:
         image: /images/9367.jpg
         content: |
           *   Projetista
+
           *   Artista 3D
   - type: cta_section
     section_id: cta
