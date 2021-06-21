@@ -41,9 +41,9 @@ sections:
         subtitle: Arquiteto e Urbanista
         image: /images/great-mahogany.jpg
         content: >
-          Arquiteta e urbanista formada pelo Instituto Federal Fluminense. Tem
+          *Arquiteta e urbanista formada pelo Instituto Federal Fluminense. Tem
           experiência em projetos residenciais e modelagem BIM no software
-          Autodesk Revit, onde já atuou como monitor durante a graduação. 
+          Autodesk Revit, onde já atuou como monitor durante a graduação.*
         actions:
           - type: action
             label: Twitter
