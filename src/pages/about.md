@@ -50,7 +50,7 @@ sections:
             style: icon
             icon: twitter
             new_window: true
-          - label: lorem-ipsum
+          - label: Instagram
             url: 'https://www.instagram.com/moisesoarquiteto'
             style: icon
             icon: dribbble
