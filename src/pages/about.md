@@ -37,7 +37,7 @@ sections:
             no_follow: false
             type: action
       - type: grid_item
-        title: Moisés
+        title: Moisés Soares
         subtitle: Arquiteto e Urbanista
         image: /images/great-mahogany.jpg
         content: >
