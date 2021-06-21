@@ -62,7 +62,7 @@ sections:
           *   Gerenciamento de projetos
       - type: grid_item
         title: Moisés Soares
-        image: images/iago.png
+        image: /images/9367.jpg
         content: |
           *   Projetista
           *   Artista 3D
