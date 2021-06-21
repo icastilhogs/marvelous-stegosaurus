@@ -59,5 +59,21 @@ sections:
     image: /images/service-1.svg
     image_alt: Illustration
     bg_color: light
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    bg-color: white
+    content: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    actions: []
+    type: hero_section
 template: advanced
 ---
