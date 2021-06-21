@@ -1,6 +1,6 @@
 ---
 title: Tule e café
-subtitle: 'Uma loja para te lembrar que mulheres não são produtos, pra variar'
+subtitle: Para o dia de noiva perfeito
 date: '2020-03-10'
 thumb_image: /images/Fotos_1---Photo.jpg
 thumb_image_alt: Aimi preview
