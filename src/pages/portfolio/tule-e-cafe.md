@@ -73,7 +73,7 @@ sections:
       apenas as arandelas são mais clássicas, sobrepostas ao espelho, mais uma
       vez buscando contraste.
   - image_alt: lorem-ipsum
-    caption: lorem-ipsum
+    caption: Vista do salão
     width: regular
     type: image_section
     image: /images/portfolio/tule-e-cafe/004.jpg
