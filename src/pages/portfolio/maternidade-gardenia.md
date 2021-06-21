@@ -37,6 +37,11 @@ sections:
     image: images/portfolio/gardenia/005.jpg
     image_alt: Design Is One 3
     width: wide
+  - image_alt: lorem-ipsum
+    caption: Imagens com representações fractais
+    width: wide
+    type: image_section
+    image: /images/gardenia-05.JPG
   - type: text_section
     content: |+
       A alegria como estado vibracional
@@ -94,11 +99,6 @@ sections:
     image: images/portfolio/gardenia/006.jpg
     image_alt: Design Is One 3
     width: wide
-  - image_alt: lorem-ipsum
-    caption: Imagens com representações fractais
-    width: wide
-    type: image_section
-    image: /images/gardenia-05.JPG
 seo:
   type: stackbit_page_meta
   title: Maternidade Gardênia
