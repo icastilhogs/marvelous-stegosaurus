@@ -62,7 +62,7 @@ sections:
           *   Gerenciamento de projetos BIM
       - type: grid_item
         title: Moisés Soares
-        image: /images/energetic-sparrow.jpg
+        image: /images/important-zucchini.jpg
         content: |
           *   Projetista
 
