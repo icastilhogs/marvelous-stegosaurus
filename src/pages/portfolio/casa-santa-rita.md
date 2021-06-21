@@ -8,7 +8,7 @@ sections:
   - type: image_section
     image: images/portfolio/santa-rita/001.jpg
     image_alt: Subtle 1
-    caption: This is the caption of the image
+    caption:
     width: wide
   - type: text_section
     content: >-
