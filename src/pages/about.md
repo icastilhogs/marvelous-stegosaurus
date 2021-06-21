@@ -40,9 +40,10 @@ sections:
         title: Moisés
         subtitle: Arquiteto e Urbanista
         image: /images/great-mahogany.jpg
-        content: >-
-          Dictum fusce ut placerat orci nulla pellentesque. Ipsum faucibus vitae
-          aliquet nec ullamcorper sit.
+        content: >
+          Arquiteta e urbanista formada pelo Instituto Federal Fluminense. Tem
+          experiência em projetos residenciais e modelagem BIM no software
+          Autodesk Revit, onde já atuou como monitor durante a graduação. 
         actions:
           - type: action
             label: Twitter
