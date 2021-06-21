@@ -94,6 +94,10 @@ sections:
     image: images/portfolio/gardenia/006.jpg
     image_alt: Design Is One 3
     width: wide
+  - image_alt: lorem-ipsum
+    caption: lorem-ipsum
+    width: regular
+    type: image_section
 seo:
   type: stackbit_page_meta
   title: Maternidade Gardênia
