@@ -16,12 +16,12 @@ sections:
         subtitle: Arquiteta e Urbanista
         image: images/isabela.png
         content: >
-          Arquiteta e urbanista formada pelo Instituto Federal Fluminense.
+          *Arquiteta e urbanista formada pelo Instituto Federal Fluminense.
           Iniciou mestrado em Engenharia de Sistemas e Comunicação na COPPE e
           saiu para focar na carreira. Lecionou na pós-graduação Latus Senso
           "Arquitetura da Cidade e suas Tecnologias" no Instituto Federal
           Fluminense. Escreveu artigos para PARC e para o blog da Valente
-          Empreendimentos. Revisou artigo para revista urbana da Unicamp.
+          Empreendimentos. Revisou artigo para revista urbana da Unicamp.*
         actions:
           - type: action
             label: Twitter
