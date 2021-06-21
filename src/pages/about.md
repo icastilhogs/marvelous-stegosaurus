@@ -39,7 +39,7 @@ sections:
       - type: grid_item
         title: Moisés
         subtitle: Arquiteto e Urbanista
-        image: images/iago.png
+        image: /images/great-mahogany.jpg
         content: >-
           Dictum fusce ut placerat orci nulla pellentesque. Ipsum faucibus vitae
           aliquet nec ullamcorper sit.
