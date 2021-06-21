@@ -36,15 +36,58 @@ sections:
     image_alt: Design Is One 3
     width: wide
   - type: text_section
-    content: >-
-      Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
-      accumsan sapien blandit ac amet faucibus aliquet placerat commodo.
-      Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a
-      in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia
-      ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum
-      massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
-      euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet
-      arcu accumsan lorem amet accumsan.
+    content: |+
+      A alegria como estado vibracional
+      é o conceito do projeto. Desse tema,
+      iniciou-se uma busca de referenciais
+      histórico-culturais - que podem ser
+      vistos nas páginas seguintes - que
+      permitissem estudar mais o conceito
+      e extrair princípios que pudessem se
+      traduzir em uma forma arquitetônica.
+      Definir um partido arquitetônico
+      a partir de sensações abstratas
+      não é tarefa fácil. Mais difícil que
+      um fluxograma hospitalar é abstrair
+      prinícipios e diretrizes de um conceito
+      e transcender sua forma figurativa,
+      em busca de essências aplicáveis que
+      dirijam o processo projetual - esse foi o
+      maior desafio na concepção do Instituto
+      Gardênia.
+      As diretrizes extraídas do conceito
+      abarcaram infinitas possibilidades.
+      Dentre elas, selecionei algumas que então
+      serviram de partido. A implantação seria
+      uma composição dispersa com repetição
+      de formas simples e mais ou menos
+      puras, não necessariamente idênticas,
+      obedecendo ao princípio da semelhança,
+      por cores ou subelementos formativos.
+      A alegria comporta a variedade, o todo,
+      todas as frequências – como no arco-íris
+      – de forma harmônica, manifestando-se
+      sempre na relação entre as partes, não
+      nas partes em si. Essas partes, porém,
+      devem ser facilmente identificadas e
+      processadas, daí a simplicidade e pureza
+      das mesmas. Essa relação pode se dar
+      entre homem-homem, homem-natureza,
+      natureza-natureza, etc. Também se dá por
+      radiações, que emanando de uma causa
+      se expande gradual e consecutivamente
+      em movimento de abertura, expansão. A
+      alegria pode ser considerada expansiva.
+      Em primeiro lugar os fluxos,
+      a relação dos setores, das salas e o
+      percurso dos pacientes. Depois desta
+      pré-configuração, paisagismo; aí então,
+      por último, a forma: uma cobertura
+      tensionada que fosse flexível o suficiente
+      para atender as exigências do projeto,
+      vencendo grandes vãos por custos
+      baixos.
+
   - content: >-
       ## Lorem ipsum
 
