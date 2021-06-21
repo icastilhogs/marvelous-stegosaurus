@@ -39,7 +39,7 @@ sections:
       - type: grid_item
         title: Moisés Soares
         subtitle: Arquiteto e Urbanista
-        image: /images/great-mahogany.jpg
+        image: /images/adorable-zebra.jpg
         content: >
           *Arquiteta e urbanista formada pelo Instituto Federal Fluminense. Tem
           experiência em projetos residenciais e modelagem BIM no software
