@@ -48,6 +48,7 @@ sections:
     caption: lorem-ipsum
     width: regular
     type: image_section
+    image: /images/VIstas2.jpg
 seo:
   type: stackbit_page_meta
   title: Tule e Café
