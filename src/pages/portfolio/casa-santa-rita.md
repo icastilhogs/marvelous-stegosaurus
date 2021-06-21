@@ -43,7 +43,7 @@ sections:
     image: images/portfolio/santa-rita/004.jpg
     image_alt: Subtle 3
     width: wide
-   - type: image_section
+  - type: image_section
     image: images/portfolio/santa-rita/005.jpg
     image_alt: Subtle 3
     width: wide
