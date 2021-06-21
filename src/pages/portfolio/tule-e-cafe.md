@@ -56,7 +56,7 @@ sections:
       resistência do porcelanato, com fechamento em rodapé de poliestireno alto
       (13cm), branco e trabalhado.
   - image_alt: lorem-ipsum
-    caption: lorem-ipsum
+    caption: Área de espera
     width: regular
     type: image_section
     image: /images/portfolio/tule-e-cafe/003.jpg
