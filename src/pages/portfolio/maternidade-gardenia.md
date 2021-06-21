@@ -23,17 +23,10 @@ sections:
     image: images/portfolio/gardenia/003.jpg
     image_alt: Design Is One 3
     width: wide
-  - content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+  - content: >
+      A cobertura em superfície ativa foi pensada para vencer grandes vãos,
+      constituindo-se de dois materiais, sendo o polieutireno para iluminação
+      zenital.
     type: text_section
   - type: image_section
     image: images/portfolio/gardenia/004.jpg
