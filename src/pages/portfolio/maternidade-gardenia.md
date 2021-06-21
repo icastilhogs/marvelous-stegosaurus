@@ -12,14 +12,14 @@ sections:
     image_alt: Design Is One 1
     caption: Cobertura de superfície ativa
     width: wide
-  - type: text_section
-    content: |
-      O ambulatório é solto como uma varanda.
   - content: >
       A cobertura em superfície ativa foi pensada para vencer grandes vãos,
       constituindo-se de dois materiais, sendo o polieutireno para iluminação
       zenital.
     type: text_section
+  - type: text_section
+    content: |
+      O ambulatório é solto como uma varanda.
   - type: image_section
     image: images/portfolio/gardenia/002.jpg
     image_alt: Design Is One 2
