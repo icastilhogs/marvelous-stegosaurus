@@ -53,7 +53,7 @@ sections:
           - label: Instagram
             url: 'https://www.instagram.com/moisesoarquiteto'
             style: icon
-            icon: dribbble
+            icon: instagram
             new_window: false
             no_follow: false
             type: action
