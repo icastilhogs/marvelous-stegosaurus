@@ -14,7 +14,7 @@ sections:
       - type: grid_item
         title: Isabela Castilho
         subtitle: Arquiteta e Urbanista
-        image: /images/-y73td9@2x.jpg
+        image: /images/-y73td9.jpg
         content: >
           *Arquiteta e urbanista formada pelo Instituto Federal Fluminense.
           Iniciou mestrado em Engenharia de Sistemas e Comunicação na COPPE e
