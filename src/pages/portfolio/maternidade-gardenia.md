@@ -17,13 +17,13 @@ sections:
       constituindo-se de dois materiais, sendo o polieutireno para iluminação
       zenital.
     type: text_section
-  - type: text_section
-    content: |
-      O ambulatório é solto como uma varanda.
   - type: image_section
     image: images/portfolio/gardenia/002.jpg
     image_alt: Design Is One 2
     width: wide
+  - type: text_section
+    content: |
+      O ambulatório é solto como uma varanda.
   - type: image_section
     image: images/portfolio/gardenia/003.jpg
     image_alt: Design Is One 3
