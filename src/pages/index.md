@@ -60,6 +60,14 @@ sections:
           *   Pesquisa e insight
 
           *   Gerenciamento de projetos BIM
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon: dribbble
+            new_window: false
+            no_follow: false
+            type: action
       - type: grid_item
         title: Moisés Soares
         image: /images/important-zucchini.jpg
