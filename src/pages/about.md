@@ -40,10 +40,8 @@ sections:
         title: Moisés Soares
         subtitle: Arquiteto e Urbanista
         image: /images/adorable-zebra.jpg
-        content: >
-          *Arquiteta e urbanista formada pelo Instituto Federal Fluminense. Tem
-          experiência em projetos residenciais e modelagem BIM no software
-          Autodesk Revit, onde já atuou como monitor durante a graduação.*
+        content: |
+          *ddd*
         actions:
           - type: action
             label: Twitter
