@@ -161,19 +161,19 @@ sections:
     form_id: contato
     form_action: lorem-ipsum
     form_fields:
-      - input_type: textarea
-        name: Mensagem
-        label: Estou interessado
-        default_value: Conte detalhes sobre seu projeto!
-        options: []
-        is_required: true
-        type: form_field
       - input_type: email
         name: email
         label: Seu melhor e-mail
         default_value: seuemail@exemplo.com
         options: []
         is_required: false
+        type: form_field
+      - input_type: textarea
+        name: Mensagem
+        label: Estou interessado
+        default_value: Conte detalhes sobre seu projeto!
+        options: []
+        is_required: true
         type: form_field
     hide_labels: false
     submit_label: hey
