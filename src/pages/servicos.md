@@ -164,7 +164,7 @@ sections:
       - input_type: text
         name: Estou interessado
         label: Quero saber mais
-        default_value: lorem-ipsum
+        default_value: Conte detalhes sobre seu projeto!
         options: []
         is_required: false
         type: form_field
