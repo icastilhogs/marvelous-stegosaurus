@@ -161,7 +161,7 @@ sections:
     form_id: contato
     form_action: lorem-ipsum
     form_fields:
-      - input_type: text
+      - input_type: textarea
         name: Mensagem
         label: Estou interessado
         default_value: Conte detalhes sobre seu projeto!
