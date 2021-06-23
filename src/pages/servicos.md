@@ -163,7 +163,7 @@ sections:
     form_fields:
       - input_type: text
         name: Estou interessado
-        label: Quero saber mais
+        label: Estou interessado
         default_value: Conte detalhes sobre seu projeto!
         options: []
         is_required: false
