@@ -181,7 +181,7 @@ sections:
     view_all_url: /portfolio
     type: portfolio_section
 seo:
-  title: ''
+  title: 'Serviços'
   description: ''
   robots: []
   extra: []
