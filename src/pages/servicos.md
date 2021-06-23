@@ -144,6 +144,26 @@ sections:
       e preencha nosso pré-briefing e entraremos em contato com você.
     type: content_section
     bg-color: white
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    content: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    form_id: lorem-ipsum
+    form_action: lorem-ipsum
+    form_fields: []
+    hide_labels: false
+    submit_label: lorem-ipsum
+    type: form_section
   - bg-color: white
     section_id: lorem-ipsum
     title: lorem-ipsum
@@ -170,26 +190,6 @@ sections:
     view_all_label: ver todos
     view_all_url: /portfolio
     type: portfolio_section
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
-    subtitle: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
-    form_id: lorem-ipsum
-    form_action: lorem-ipsum
-    form_fields: []
-    hide_labels: false
-    submit_label: lorem-ipsum
-    type: form_section
 seo:
   title: ''
   description: ''
