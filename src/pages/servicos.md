@@ -33,8 +33,12 @@ sections:
         actions: []
         type: grid_item
         image: /images/portfolio/feuer/001.jpg
-        content: |
-          Voltado para empreendedores que buscam 
+        content: >
+          Voltado para empreendedores que buscam abrir a sede ou uma nova filial
+          para expandir seu espaço de domínio físico. Entre projetos e
+          consultorias, podemos auxiliar na escolha do terreno ideal, com os
+          indíces urbanísticos adequados, até a elaboração de um projeto
+          executivo completo em BIM.
       - title: Empreendimentos
         subtitle: >-
           prédios, condomínios/parcelamentos, aeroporto, hospitais, shoppings,
