@@ -145,7 +145,7 @@ sections:
     type: content_section
     bg-color: white
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: contato
     subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
