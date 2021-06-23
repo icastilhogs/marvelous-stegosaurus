@@ -154,24 +154,6 @@ sections:
       Ainda está pensando? Diga "Olá" pelo e-mail hey@eupoiese.com ou pelo
       WhatsApp pelo número +55 22 9 8845-6722 e conte-nos seus objetivos e
       ideias!
-  - type: cta_section
-    section_id: cta
-    title: Vamos trabalhar juntos!
-    content: >
-      Veja sua poesia virando arquitetura, ou o oposto, tanto faz. Leia as
-      instruções e preencha nosso pré-briefing e entraremos em contato com você.
-
-      Ainda está pensando? Diga "Olá" pelo e-mail hey@eupoiese.com ou pelo
-      WhatsApp pelo número +55 22 9 8845-6722 e conte-nos seus objetivos e
-      ideias!
-    actions:
-      - type: action
-        label: começar
-        url: /contact
-        style: button
-    image: /images/service-1.svg
-    image_alt: Illustration
-    bg_color: light
   - section_id: portfolio
     title: nossos projetos
     subtitle: Conheça nossos projetos
