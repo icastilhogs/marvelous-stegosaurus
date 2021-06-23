@@ -162,7 +162,7 @@ sections:
     form_action: lorem-ipsum
     form_fields:
       - input_type: text
-        name: lorem-ipsum
+        name: Conte detalhes sobre seu projeto!
         label: Quero saber mais
         default_value: lorem-ipsum
         options: []
