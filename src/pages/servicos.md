@@ -172,7 +172,7 @@ sections:
     image: /images/service-1.svg
     image_alt: Illustration
     bg_color: light
-  - section_id: lorem-ipsum
+  - section_id: portfolio
     title: nossos projetos
     subtitle: Conheça nossos projetos
     layout_style: tiles
