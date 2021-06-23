@@ -176,7 +176,7 @@ sections:
         is_required: true
         type: form_field
     hide_labels: false
-    submit_label: hey
+    submit_label: vamos lá!
     type: form_section
   - section_id: lorem-ipsum
     title: nossos projetos
