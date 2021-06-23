@@ -168,6 +168,13 @@ sections:
         options: []
         is_required: true
         type: form_field
+      - input_type: text
+        name: lorem-ipsum
+        label: lorem-ipsum
+        default_value: lorem-ipsum
+        options: []
+        is_required: false
+        type: form_field
     hide_labels: false
     submit_label: hey
     type: form_section
