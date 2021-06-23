@@ -162,7 +162,7 @@ sections:
     form_action: lorem-ipsum
     form_fields:
       - input_type: text
-        name: Estou interessado
+        name: Mensagem
         label: Estou interessado
         default_value: Conte detalhes sobre seu projeto!
         options: []
