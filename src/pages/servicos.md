@@ -162,7 +162,7 @@ sections:
     form_action: lorem-ipsum
     form_fields: []
     hide_labels: false
-    submit_label: lorem-ipsum
+    submit_label: hey
     type: form_section
   - section_id: lorem-ipsum
     title: nossos projetos
