@@ -154,26 +154,24 @@ sections:
       Ainda está pensando? Diga "Olá" pelo e-mail hey@eupoiese.com ou pelo
       WhatsApp pelo número +55 22 9 8845-6722 e conte-nos seus objetivos e
       ideias!
-    form_id: contato
-    form_action: lorem-ipsum
-    form_fields:
-      - input_type: email
-        name: email
-        label: Seu melhor e-mail
-        default_value: seuemail@exemplo.com
-        options: []
-        is_required: false
-        type: form_field
-      - input_type: textarea
-        name: Mensagem
-        label: Estou interessado
-        default_value: Conte detalhes sobre seu projeto!
-        options: []
-        is_required: true
-        type: form_field
-    hide_labels: false
-    submit_label: vamos lá!
-    type: form_section
+    - type: cta_section
+    section_id: cta
+    title: Vamos trabalhar juntos!
+    content: >
+      Veja sua poesia virando arquitetura, ou o oposto, tanto faz. Leia as
+      instruções e preencha nosso pré-briefing e entraremos em contato com você.
+
+      Ainda está pensando? Diga "Olá" pelo e-mail hey@eupoiese.com ou pelo
+      WhatsApp pelo número +55 22 9 8845-6722 e conte-nos seus objetivos e
+      ideias!
+    actions:
+      - type: action
+        label: começar
+        url: /contact
+        style: button
+    image: /images/service-1.svg
+    image_alt: Illustration
+    bg_color: light
   - section_id: lorem-ipsum
     title: nossos projetos
     subtitle: Conheça nossos projetos
