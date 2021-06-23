@@ -48,12 +48,12 @@ sections:
         type: grid_item
         image: /images/portfolio/gardenia/001.jpg
         content: >
-          Os empreendimentos são negócios que não atenderão diretamente ao
-          contratante, mas sim a terceiros. Auxiliamos no processo desde
-          consultoria para definição do terreno até pesquisas de design research
-          completas antes do início do projeto. Em projeto, desenvolvemos desde
-          estudos preliminares com otimização combinatória até projetos
-          executivos completamente compatibilizados no Naviswork.
+          Em negócios que não atenderão diretamente ao contratante, mas sim a
+          terceiros, auxiliamos no processo desde a consultoria para definição
+          do terreno até pesquisas de design research completas antes do início
+          do projeto. Em seguida, desenvolvemos desde estudos preliminares com
+          otimização combinatória até projetos executivos completamente
+          compatibilizados no Naviswork.
       - title: Social/Cultural
         subtitle: 'parques, praças, museus'
         image_alt: lorem-ipsum
