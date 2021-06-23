@@ -158,7 +158,7 @@ sections:
       - Lorem ipsum
 
       - dolor sit amet
-    form_id: lorem-ipsum
+    form_id: contato
     form_action: lorem-ipsum
     form_fields:
       - input_type: text
