@@ -144,14 +144,6 @@ sections:
       e preencha nosso pré-briefing e entraremos em contato com você.
     type: content_section
     bg-color: white
-  - section_id: lorem-ipsum
-    title: nossos projetos
-    subtitle: Conheça nossos projetos
-    layout_style: tiles
-    projects_number: 2
-    view_all_label: ver todos
-    view_all_url: /portfolio
-    type: portfolio_section
   - bg-color: white
     section_id: lorem-ipsum
     title: lorem-ipsum
@@ -170,6 +162,14 @@ sections:
     image_alt: lorem-ipsum
     bg_color: none
     type: cta_section
+  - section_id: lorem-ipsum
+    title: nossos projetos
+    subtitle: Conheça nossos projetos
+    layout_style: tiles
+    projects_number: 2
+    view_all_label: ver todos
+    view_all_url: /portfolio
+    type: portfolio_section
 seo:
   title: ''
   description: ''
