@@ -60,6 +60,10 @@ sections:
         actions: []
         type: grid_item
         image: /images/museu-02.jpg
+        content: >
+          Em projetos sociais e/ou culturais soltamos toda nossa criatividade
+          sinestesicamente, num processo exploratório de design que leve ao
+          desenvolvimento de peças únicas e desruptivas.
     type: grid_section
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
