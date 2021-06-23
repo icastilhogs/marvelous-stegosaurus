@@ -154,7 +154,7 @@ sections:
       Ainda está pensando? Diga "Olá" pelo e-mail hey@eupoiese.com ou pelo
       WhatsApp pelo número +55 22 9 8845-6722 e conte-nos seus objetivos e
       ideias!
-    - type: cta_section
+  - type: cta_section
     section_id: cta
     title: Vamos trabalhar juntos!
     content: >
