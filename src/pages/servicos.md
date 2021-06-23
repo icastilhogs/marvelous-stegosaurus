@@ -166,7 +166,7 @@ sections:
         label: Estou interessado
         default_value: Conte detalhes sobre seu projeto!
         options: []
-        is_required: false
+        is_required: true
         type: form_field
     hide_labels: false
     submit_label: hey
