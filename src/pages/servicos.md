@@ -68,7 +68,7 @@ sections:
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >
-      Eu já li que começar uma empresa é empolgante. Apesar de verdadeiro, a
+      Dizem por aí que abrir uma empresa é empolgante. Apesar de verdadeiro, a
       empolgação vem com muita ansiedade, preocupações, contas e escolhas
       difíceis. Precisamos sentirmo-nos seguros e amparados para desfrutarmos
       desse momento e, o mais importante, construir raízes fortes para crescer,
