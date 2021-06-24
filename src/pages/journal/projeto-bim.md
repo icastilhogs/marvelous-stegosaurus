@@ -13,7 +13,7 @@ seo:
   type: stackbit_page_meta
 template: post
 ---
-Antes de tudo: BIM é um acrônimo para o termo em inglês Building Information Model que, em português, pode ser entendido como Modelo de Informação da Construção. Esse termo denomina uma metologia genérica de criação e gerenciamento de toda a informação de um projeto de arquitetura — antes, durante e depois da construção. Em analogia ao BIM, surgiu o CIM, com a mesma finalidade, só que aplicado à escala urbana.
+Antes de tudo: BIM é um acrônimo para o termo em inglês Building Information Model que, em português, pode ser entendido como Modelo de Informação da Construção. Esse termo denomina uma metologia genérica de gerenciamento de toda a informação de um projeto de arquitetura — antes, durante e depois da construção. Em analogia ao BIM, surgiu o CIM, com a mesma finalidade, só que aplicado à escala urbana.
 
 Todo o conceito do BIM surgiu na década de 70, quando os computadores ainda estavam "nascendo", portanto, sua implementação só foi possível algumas décadas depois. Já podemos, até mesmo, discutir a necessidade de uma reimplementação geral do BIM, afinal, como veremos mais a frente, nenhuma das implementações até o momento cumprem com todas as promessas da teoria.
 
@@ -40,8 +40,6 @@ outros da categoria por sinônimos de BIM. BIM é um sistema de trabalho,
 enquanto Revit, ArchiCAD e AllPlan são *softwares*
 onde esse sistema pode ser aplicado. Portanto, um é o conceito, o outro é a
 ferramenta. Você não vai sair daqui achando que Revit e BIM são sinônimos, correto?!
-
-
 
 Recentemente, a Autodesk desenvolveu dois
 novos *sotfwares* que facilitaram a
