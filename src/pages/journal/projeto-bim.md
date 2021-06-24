@@ -13,33 +13,12 @@ seo:
   type: stackbit_page_meta
 template: post
 ---
-O acrônimo BIM refere-se a uma metologia de
-criação e gerenciamento de toda a informação de um projeto de arquitetura —
-antes, durante e depois da construção. Em analogia ao BIM, surgiu o CIM, com a
-mesma finalidade, só que aplicado à escala urbana.
+Antes de tudo: BIM é um acrônimo para o termo em inglês Building Information Model que, em português, pode ser entendido como Modelo de Informação da Construção. Esse termo denomina uma metologia genérica de criação e gerenciamento de toda a informação de um projeto de arquitetura — antes, durante e depois da construção. Em analogia ao BIM, surgiu o CIM, com a mesma finalidade, só que aplicado à escala urbana.
 
-Enquanto os sistema CAD permitem desenhos
-em até 3 dimensões, sem distinção dos elementos, o sistema de dados do BIM
-incorpora a quarta e a quinta dimensões (tempo e custos), permitindo gerenciar
-a informação de forma inteligente ao longo do ciclo de vida de um projeto, podendo
-automatizar processos de programação, projeto conceitual, detalhes, análises,
-documentação, fabricação, logística de construção, operação e manutenção,
-renovação e / ou demolição. 
+Todo o conceito do BIM surgiu na década de 70, quando os computadores ainda estavam "nascendo", portanto, sua implementação só foi possível algumas décadas depois. Já podemos, até mesmo, discutir a necessidade de uma reimplementação geral do BIM, afinal, como veremos mais a frente, nenhuma das implementações até o momento cumprem com todas as promessas da teoria.
 
-Um algoritmo pode facilmente encontrar
-soluções ótimas que contemplem todos os valores alimentados pelo projetista,
-hierarquizados por um balanço de valores sociais e técnicos; mas dificilmente
-descobrirá os valores de uma sociedade. Quem é o cliente, o que ele quer e o
-que ele, de fato, precisa, são dados que precisam ser coletados por nós. 
-
-É importante destacar que a fabricação
-digital não precisa usar BIM, nem parametrização, nem *design* generativo, nem gramática da forma. Outro equívoco frequente
-é metonímia de tomar *softwares* como o
-*Revit*, o *ArchiCAD*, o *AllPlan* e
-outros da categoria por sinônimos de BIM. BIM é um sistema de trabalho,
-enquanto Revit, ArchiCAD e AllPlan são *softwares*
-onde esse sistema pode ser aplicado. Portanto, um é o conceito, o outro é a
-ferramenta. 
+Em tese, enquanto os sistema CAD permitem desenhos em até 3 dimensões, sem distinção dos elementos, o sistema de dados do BIM
+deve incorporar a quarta e a quinta dimensões (tempo e custos), permitindo gerenciar a informação de forma inteligente ao longo do ciclo de vida de um projeto, podendo automatizar processos de programação, projeto conceitual, detalhes, análises, documentação, fabricação, logística de construção, operação e manutenção, renovação e / ou demolição.
 
 Justamente pelo método depender de
 ferramentas que o executem, o BIM enfrenta diversas limitações através das
@@ -54,6 +33,16 @@ feitas acerca da modelo no tempo de vida de uma construção, e dezenas de
 profissionais estão envolvidos; os grandes arquivos também dificultam a
 distribuição a todas as partes interessadas em tempo real (ORACLE, 2015).
 
+Outro equívoco frequente
+é metonímia de tomar *softwares* como o
+*Revit*, o *ArchiCAD*, o *AllPlan* e
+outros da categoria por sinônimos de BIM. BIM é um sistema de trabalho,
+enquanto Revit, ArchiCAD e AllPlan são *softwares*
+onde esse sistema pode ser aplicado. Portanto, um é o conceito, o outro é a
+ferramenta. Você não vai sair daqui achando que Revit e BIM são sinônimos, correto?!
+
+
+
 Recentemente, a Autodesk desenvolveu dois
 novos *sotfwares* que facilitaram a
 interoperabilidade dos modelos, o Fusion 360 e o Formit. O Formit possibilita a
@@ -62,7 +51,7 @@ sua interface lembra o *software* do *Google*. A empresa também está em fase d
 testes para o lançamento de um *software*
 dedicado ao *design* generativo,
 nomeado, até o momento (2019) *Project
-Refinary*. 
+Refinary*.
 
 O desafio para as empresas que adotam BIM
 não é o uso de um novo *software* ou,
@@ -75,7 +64,7 @@ de uma pessoa, é a mudança de, no mínimo, uma empresa e, em um cenário ideal
 uma indústria (AEC). É preciso otimizar a comunicação com um time
 multidisciplinar e com o cliente, reavaliar e remanejar funções humanas —
 surgem novas oportunidades[\[1\]](#\_ftn1)
-e outras deixam de existir ou se tornam menos requisitadas. De acordo com[ Pereira Filho]()[\[2\]](#\_ftn2), [\[IC1\]](#\_msocom\_1) um dos
+e outras deixam de existir ou se tornam menos requisitadas. De acordo com[ Pereira Filho]()[\[2\]](#\_ftn2), um dos
 desafios atuais na prática BIM é a formulação de contratos que determinem a
 participação de um profissional, envolvido em projetos complementares, como
 colaborador dinâmico durante um ciclo completo de projeto, e não uma
@@ -86,7 +75,7 @@ anteriores, e para incentivar a criação de uma biblioteca BIM brasileira
 (KASSEM; LEUSIN, 2015). Como no Brasil prevalece o menor preço no processo
 licitatório, junto a uma profunda cisão entre concepção e execução, Kassem e
 Leusin (2015) acreditam que estamos na contramão da visão integrada da proposta
-BIM. 
+BIM.
 
 De modo geral, os resultados não estão
 ligados aos programas utilizados. O mais importante ainda é a criatividade e a
@@ -112,8 +101,3 @@ responsável por gerenciar informação em projetos (KASSEM; LEUSIN, 2015).
 na Universidade Estadual Norte Fluminense (UENF), em Campos dos Goytacazes,
 outubro de 2018. O tema da palestra foi “Complexidade e Tecnologias Digitais na
 Arquitetura, Engenharia e Construção Civil”.
-
- [\[IC1\]](#\_msoanchor\_1)Procurar outra pessoa.
-
-Então, procurei, Não tem. Só você
-disse isso rsrsrs
