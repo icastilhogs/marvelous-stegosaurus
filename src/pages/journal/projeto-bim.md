@@ -1,5 +1,5 @@
 ---
-title: Entenda tudo sobre BIM
+title: Entenda a essência do BIM
 subtitle: Está em confuso? Acha o conceito complexo? Entenda BIM de uma vez por todas.
 date: '2021-06-24'
 thumb_image_alt: lorem-ipsum
