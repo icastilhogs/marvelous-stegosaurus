@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Entenda tudo sobre BIM
 subtitle: lorem-ipsum
 date: '2021-06-24'
 thumb_image_alt: lorem-ipsum
