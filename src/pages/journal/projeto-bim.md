@@ -34,7 +34,7 @@ De modo geral, os resultados não estão ligados aos programas utilizados. O mai
 
 ORACLE. *What is BIM?* Oracle, Aconex, 2015. Disponível em: \<https://www.aconex.com/what-is-BIM>. Acesso em: 04 ago. 2018.
 
-SEDREZ, M. Projetando e fabricando a complexidade. Entrevista com Florian Gauss. In: CELANI, M. G. C.; SEDREZ, M. (Organizadores). Arquitetura contemporânea e automação: prática e reflexão. São Paulo: ProBooks, 2018c. p. 161-166. Edição do Kindle.
+SEDREZ, M. Projetando e fabricando a complexidade. Entrevista com Florian Gauss. In: CELANI, M. G. C.; SEDREZ, M. (Organizadores). **Arquitetura contemporânea e automação:** prática e reflexão. São Paulo: ProBooks, 2018c. p. 161-166. Edição do Kindle.
 
 KASSEM, M.; LEUSIN DE AMORIM, S. R. BIM: *Building Information Modeling* no Brasil e na União Europeia. In: Projeto Apoio
 aos Diálogos Setoriais União Europeia - Brasil. Middlesbrough: Teesside University's Research Repository, 2015. Disponível em: \<http://hdl.handle.net/10149/595171>. Acesso em: 09 dez. 2018.
