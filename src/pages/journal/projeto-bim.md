@@ -16,7 +16,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 template: post
-image: /images/YouTube Video – 1.png
+image: /images/YouTube Video – 2.png
 thumb_image: /images/photo-1569605803663-e9337d901ff9.jpg
 ---
 Antes de tudo: BIM é um acrônimo para o termo em inglês *Building Information Model* que, em português, pode ser entendido como Modelo de Informação da Construção. Antes de continuarmos, é importante esclarecermos: o que é um MODELO de informação? Segundo a disciplina de Modelagem de Dados, modelos são REPRESENTAÇÕES simplificadas de um objeto/sujeito que existem no mundo real. NUNCA serão completos. Um modelo de informação é também uma **abstração conceitual**, não podendo, em si mesmo, definir a técnica de modelagem da geometria, nem como os dados serão coletados, armazendos ou consultados.
