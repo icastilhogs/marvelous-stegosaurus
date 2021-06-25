@@ -33,7 +33,7 @@ Justamente pelo modelo depender de ferramentas que o implementem, o BIM enfrenta
 
 ## Bibliografia
 
-KASSEM, M.; LEUSIN DE AMORIM, S. R.\*\* BIM:\*\* *Building Information Modeling* no Brasil e na União Europeia. In: Projeto Apoio
+KASSEM, M.; LEUSIN DE AMORIM, S. R. **BIM:** *Building Information Modeling* no Brasil e na União Europeia. In: Projeto Apoio
 aos Diálogos Setoriais União Europeia - Brasil. Middlesbrough: Teesside University's Research Repository, 2015. Disponível em: \<http://hdl.handle.net/10149/595171>. Acesso em: 09 dez. 2018.
 
 ORACLE. *What is BIM?* **Oracle**, Aconex, 2015. Disponível em: \<https://www.aconex.com/what-is-BIM>. Acesso em: 04 ago. 2018.
