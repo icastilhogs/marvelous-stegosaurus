@@ -1,6 +1,8 @@
 ---
 title: Entenda a essência do BIM
-subtitle: Está em confuso? Acha o conceito complexo? Entenda BIM de uma vez por todas.
+subtitle: >-
+  Está em confuso? Acha o conceito complexo? É uma metodologia, um método, um
+  fluxo de trabalho ou uma abstração? Entenda BIM de uma vez por todas.
 date: '2021-06-24'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
