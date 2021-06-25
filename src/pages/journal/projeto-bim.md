@@ -5,7 +5,7 @@ subtitle: >-
   fluxo de trabalho ou uma abstração? Entenda BIM de uma vez por todas.
 date: '2021-06-24'
 thumb_image_alt: Modelo de informações
-image_alt: lorem-ipsum
+image_alt: Modelo de informação
 excerpt: lorem-ipsum
 seo:
   title: ''
