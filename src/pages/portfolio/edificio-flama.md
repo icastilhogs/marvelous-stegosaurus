@@ -41,6 +41,7 @@ sections:
     caption: lorem-ipsum
     width: regular
     type: image_section
+    image: /images/Image1_002.jpg
   - content: >
       ## Volumetria
 
