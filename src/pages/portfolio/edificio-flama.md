@@ -20,7 +20,7 @@ sections:
 
     type: text_section
   - image_alt: lorem-ipsum
-    width: regular
+    width: wide
     type: image_section
     image: /images/Image1_000.jpg
   - content: >
