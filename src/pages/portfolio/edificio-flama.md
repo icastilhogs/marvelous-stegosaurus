@@ -61,6 +61,7 @@ sections:
     caption: lorem-ipsum
     width: regular
     type: image_section
+    image: /images/Image1_003.jpg
 seo:
   title: ''
   description: ''
