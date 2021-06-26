@@ -23,6 +23,7 @@ sections:
     caption: lorem-ipsum
     width: regular
     type: image_section
+    image: /images/Image1_000.jpg
   - content: >
       Tais ideias se traduzem no partido arquitetônico através da distribuição
       de um espaço gourmet com churrasqueira em todos os apartamentos. Devido ao
