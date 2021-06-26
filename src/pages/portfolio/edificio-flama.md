@@ -33,17 +33,16 @@ sections:
       comercial voltados para a fachada, conciliando isto aos acessos
       residenciais verticais - escada protegida e elevador.
     type: text_section
-  - content: >-
-      ## Lorem ipsum
+  - content: >
+      ## Volumetria
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      Para remeter à organicidade e fluidez de uma chama, a volumetria da
+      fachada apresenta traçados curvos e emprega elementos vazados para
+      garantir a circulação de ar e esconder elementos funcionais de perfil
+      não-estético, como as lajes técnicas e os pontos de lavanderia das
+      varandas gourmet. Todo esse trabalho imprime leveza à composição e traduz
+      o conceito orgânico de chama de forma sutil e visualmente atraente.
     type: text_section
 seo:
   title: ''
