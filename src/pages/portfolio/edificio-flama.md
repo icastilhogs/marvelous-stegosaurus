@@ -67,4 +67,5 @@ seo:
   extra: []
   type: stackbit_page_meta
 template: project
+thumb_image: /images/cool-neptune.jpg
 ---
