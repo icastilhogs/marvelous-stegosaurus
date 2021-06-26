@@ -53,7 +53,6 @@ sections:
       o conceito orgânico de chama de forma sutil e visualmente atraente.
     type: text_section
   - image_alt: lorem-ipsum
-    caption: lorem-ipsum
     width: wide
     type: image_section
     image: /images/Image2.jpg
