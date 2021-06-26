@@ -5,7 +5,19 @@ subtitle: >-
   reunião em torno da churrasqueira para momentos de confraternização
 date: '2021-06-26'
 thumb_image_alt: lorem-ipsum
-sections: []
+sections:
+  - content: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    type: text_section
 seo:
   title: ''
   description: ''
