@@ -19,6 +19,10 @@ sections:
       nome Edifício Flama, vinculando-o ao símbolo selecionado para o conceito.
 
     type: text_section
+  - image_alt: lorem-ipsum
+    caption: lorem-ipsum
+    width: regular
+    type: image_section
   - content: >
       Tais ideias se traduzem no partido arquitetônico através da distribuição
       de um espaço gourmet com churrasqueira em todos os apartamentos. Devido ao
@@ -33,10 +37,6 @@ sections:
       comercial voltados para a fachada, conciliando isto aos acessos
       residenciais verticais - escada protegida e elevador.
     type: text_section
-  - image_alt: lorem-ipsum
-    caption: lorem-ipsum
-    width: regular
-    type: image_section
   - image_alt: lorem-ipsum
     caption: lorem-ipsum
     width: regular
