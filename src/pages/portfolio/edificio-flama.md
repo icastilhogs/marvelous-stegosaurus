@@ -57,7 +57,6 @@ sections:
     type: image_section
     image: /images/Image2.jpg
   - image_alt: lorem-ipsum
-    caption: lorem-ipsum
     width: wide
     type: image_section
     image: /images/Image1_003.jpg
