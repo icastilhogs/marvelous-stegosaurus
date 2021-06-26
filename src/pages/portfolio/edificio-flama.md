@@ -37,6 +37,10 @@ sections:
     caption: lorem-ipsum
     width: regular
     type: image_section
+  - image_alt: lorem-ipsum
+    caption: lorem-ipsum
+    width: regular
+    type: image_section
   - content: >
       ## Volumetria
 
@@ -48,10 +52,6 @@ sections:
       varandas gourmet. Todo esse trabalho imprime leveza à composição e traduz
       o conceito orgânico de chama de forma sutil e visualmente atraente.
     type: text_section
-  - image_alt: lorem-ipsum
-    caption: lorem-ipsum
-    width: regular
-    type: image_section
   - image_alt: lorem-ipsum
     caption: lorem-ipsum
     width: regular
