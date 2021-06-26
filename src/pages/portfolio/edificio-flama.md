@@ -19,17 +19,19 @@ sections:
       nome Edifício Flama, vinculando-o ao símbolo selecionado para o conceito.
 
     type: text_section
-  - content: >-
-      ## Lorem ipsum
+  - content: >
+      Tais ideias se traduzem no partido arquitetônico através da distribuição
+      de um espaço gourmet com churrasqueira em todos os apartamentos. Devido ao
+      clima da região, alocou-se esse espaço em áreas de varanda, promovendo um
+      acesso facilitado à circulação de ar. Além disso, integra-se a esse espaço
+      a própria cozinha da unidade residencial, de modo que o espaço para
+      reuniões e vivências coletivas dentro do espaço doméstico seja ampliado.
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      O partido do térreo, por sua vez, foi trabalhado a partir da alocação das
+      24 vagas de estacionamento e da garantia de cerca de 150 m² para uso
+      comercial voltados para a fachada, conciliando isto aos acessos
+      residenciais verticais - escada protegida e elevador.
     type: text_section
 seo:
   title: ''
