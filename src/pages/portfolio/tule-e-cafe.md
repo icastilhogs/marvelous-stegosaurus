@@ -69,7 +69,7 @@ sections:
       vez buscando contraste.
   - image_alt: lorem-ipsum
     caption: Vista do salão
-    width: regular
+    width: wide
     type: image_section
     image: /images/portfolio/tule-e-cafe/004.jpg
   - image_alt: lorem-ipsum
