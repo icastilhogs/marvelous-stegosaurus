@@ -13,7 +13,6 @@ sections:
   - type: text_section
     content: "A galeria feuer - fogo - é um estúdio de fotografia e a luz é a única protagonista. O programa de uso misto foi pensado para atender ao fotógrafo, que trabalha em casa, e seu filho adolescente. A casa estilo loft com planta livre integra\_toda área social a um jardim boêmio. Já no estúdio, pensamos em uma Iluminação zenital e difusa que diminuísse\_em alguns Watts a necessidade de iluminação artificial.\_\_\n"
   - type: image_section
-    image: images/portfolio/feuer/003.jpg
     image_alt: Aimi 2
     width: wide
   - type: image_section
