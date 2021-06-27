@@ -87,6 +87,10 @@ sections:
     width: regular
     type: image_section
     image: /images/Image4_001.jpg
+  - image_alt: lorem-ipsum
+    caption: lorem-ipsum
+    width: regular
+    type: image_section
 seo:
   type: stackbit_page_meta
   title: Tule e Café
