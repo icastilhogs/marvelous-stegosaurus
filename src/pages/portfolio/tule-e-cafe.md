@@ -88,7 +88,7 @@ sections:
     type: image_section
     image: /images/Image4_001.jpg
   - image_alt: lorem-ipsum
-    caption: lorem-ipsum
+    caption: Fachada renderizada
     width: regular
     type: image_section
     image: /images/Image2_001.jpg
