@@ -8,7 +8,7 @@ sections:
   - type: image_section
     image: images/portfolio/santa-rita/001.jpg
     image_alt: Subtle 1
-    caption:
+    caption: null
     width: wide
   - type: text_section
     content: >-
@@ -24,21 +24,24 @@ sections:
     width: wide
   - type: text_section
     content: >-
-      "Elas caminham junto conosco, em todas as nossas fases, adaptando-se a brinquedos e retalhos no chão a porcelanatos polidos e reluzentes com cantos tristes e vazios.\_Depois de tantas etapas, cores e histórias vividas, salas de jantar demolidas para acomodar mais filhos, essa casa chegou a forma que lhes apresento. Transformou-se. A garagem apertadinha finalmente cresceu. O andar de cima finalmente entrou na casa. A piscina, que um dia já existiu e um dia já foi embora, voltou.\n"
+      "Elas caminham junto conosco, em todas as nossas fases, adaptando-se a
+      brinquedos e retalhos no chão a porcelanatos polidos e reluzentes com
+      cantos tristes e vazios.\_Depois de tantas etapas, cores e histórias
+      vividas, salas de jantar demolidas para acomodar mais filhos, essa casa
+      chegou a forma que lhes apresento. Transformou-se. A garagem apertadinha
+      finalmente cresceu. O andar de cima finalmente entrou na casa. A piscina,
+      que um dia já existiu e um dia já foi embora, voltou.\n"
   - type: image_section
     image: images/portfolio/santa-rita/003.jpg
     image_alt: Subtle 3
     width: wide
   - type: text_section
-    content: >-
-      Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
-      accumsan sapien blandit ac amet faucibus aliquet placerat commodo.
-      Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a
-      in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia
-      ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum
-      massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
-      euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet
-      arcu accumsan lorem amet accumsan.
+    content: >
+      A antiga garagem que mal dava para sair do carro ao estacionar foi trocada
+      de lugar com os quartos. O Atelier finalmente foi separado da área íntima.
+      A escada foi trazida para dentro da casa integrando os pavimentos térreo e
+      superior. A piscina longa finalmente realizou o sonho da neta. A hortinha,
+      tradição de família, ainda foi mantida e integrada ao paisagismo.
   - type: image_section
     image: images/portfolio/santa-rita/004.jpg
     image_alt: Subtle 3
