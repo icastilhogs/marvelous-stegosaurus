@@ -11,11 +11,13 @@ sections:
     caption: This is the caption of the image
     width: wide
   - type: text_section
-    content: >-
-      "Será que tem como ter uma casa púrpura? Será que não fica muito chamativo? Pois nem toda arquitetura nasce para se encaixar. 
-      Algumas nascem para se destacar.\_A casa púrpura foi projetada em um terreno bem pequeno, portanto, verticalizar era a 
-      saída para encaixar um programa mais confortável. Pensada com muito cuidado, misturando a pegada urbana do púrpura com 
-      as vegetações incorporadas à fachada."
+    content: >
+      "Será que tem como ter uma casa púrpura? Será que não fica muito
+      chamativo? Pois nem toda arquitetura nasce para se encaixar.  Algumas
+      nascem para se destacar. A casa púrpura foi projetada em um terreno bem
+      pequeno, portanto, verticalizar era a  saída para encaixar um programa
+      mais confortável. Pensada com muito cuidado, misturando a pegada urbana do
+      púrpura com as vegetações incorporadas à fachada."
   - type: image_section
     image: images/portfolio/purpura/purpura-001.jpg
     image_alt: Fachada Casa Púrpura
