@@ -79,7 +79,7 @@ sections:
     image: /images/portfolio/tule-e-cafe/005.jpg
   - image_alt: lorem-ipsum
     caption: Vista executiva do pavimento superior
-    width: regular
+    width: wide
     type: image_section
     image: /images/portfolio/tule-e-cafe/006.jpg
 seo:
