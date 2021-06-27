@@ -23,15 +23,11 @@ sections:
     image_alt: Fachada Casa Púrpura
     width: wide
   - type: text_section
-    content: >-
-      Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
-      accumsan sapien blandit ac amet faucibus aliquet placerat commodo.
-      Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a
-      in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia
-      ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum
-      massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
-      euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet
-      arcu accumsan lorem amet accumsan.
+    content: >
+      O pai da Patrícia, dono do terreno, estava com dúvidas se queria uma casa
+      ou uma edificação de uso misto, com lojas no pavimento térreo. No final,
+      optou por um edifício 100% residencial, acomodando apenas a garagem ao
+      térreo.
 seo:
   type: stackbit_page_meta
   title: Casa Púrpura
