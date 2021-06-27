@@ -25,9 +25,7 @@ sections:
     image_alt: Aimi 2
     width: wide
   - type: text_section
-    content: >
-      A galeria possui espaços de estar imersos na natureza além de preservar as
-      árvores do local
+    content: "Projetada para um fotógrafo com estúdio\r em casa e seu filho de 15 anos, a “Galeria\r Feuer” traz o uso misto ao terreno de esquina\r\nda Rua Alfredo Crespo com a Rua Nuno Tavares,\r no Parque Santo Amaro. Os clientes\r desejavam praticidade no dia a dia, em um\r\nprograma mínimo que os atendesse sem excessos,\r além de privacidade.\r Para dar visibilidade ao estúdio, a fachada\r principal se abre para a rua, oferecendo\r jardins, sombras e um visual mais comercial e\r atrativo. A iluminação deste volume é zenital,\r suavizada por um filtro translúcido para dar\r conforto lumínico as atividades fotográficas. A\r luz é difusa, porém abundante. \n\nA galeria possui espaços de estar imersos na natureza além de preservar as árvores do local.\n"
   - type: image_section
     image: images/portfolio/feuer/006.jpg
     image_alt: Aimi 3
