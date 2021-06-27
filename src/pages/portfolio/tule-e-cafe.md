@@ -35,7 +35,7 @@ sections:
   - type: image_section
     image: /images/portfolio/tule-e-cafe/002.jpg
     image_alt: Aimi 3
-    width: wide
+    width: regular
     caption: Bar com doces
   - type: text_section
     content: >-
