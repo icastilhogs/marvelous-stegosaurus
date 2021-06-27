@@ -84,7 +84,7 @@ sections:
     image: /images/portfolio/tule-e-cafe/006.jpg
   - image_alt: lorem-ipsum
     caption: Fachada girly com vegetação
-    width: regular
+    width: wide
     type: image_section
     image: /images/Image4_001.jpg
   - image_alt: lorem-ipsum
