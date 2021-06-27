@@ -31,15 +31,7 @@ sections:
     image_alt: Aimi 3
     width: wide
   - type: text_section
-    content: >-
-      Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
-      accumsan sapien blandit ac amet faucibus aliquet placerat commodo.
-      Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a
-      in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia
-      ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum
-      massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
-      euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet
-      arcu accumsan lorem amet accumsan.
+    content: "Há conexão direta do escriitório para\r a suíte principal. A garagem também oferece\r uma grande gama de fluxos, ligando-se ao escritório,\r a sala, ao estúdio e ao setor de serviço.\r A área de lazer traz um amplo gramado\r com deck de madeira para atividades ao ar\r livre. Para o adolescente, o espaço versátil\r serve para prática esporádica de esportes\r com os amigos e segundo ele, o mais importante\r são as mesas para jogos de cartas e video\r games. Dentro da casa, o quarto reversível\r também o atende bem quanto a esta tarefa,\r servindo de sala de jogos.\n\nCom estrutura\r metálica, grandes\r vãos são alcançados.\r As vedações internas\r em drywall e as externas\r alvenaria em tijolo\r 14 cm revestido com\r\nWPC (Wood Plastic\r Composite). Os painéis\r com essa tecnologia\r permitem uma camada\r de ventilação entre a alvenaria\r e o material de\r acabamento, proporcionando\r maior conforto\r térmico e acústico.\r A inclinação do\r telhado junto as janelas\r elevadas integradas a\r camada de revestimento\r e sistemas de forro\r proporcionam ventilação\r cruzada por toda\r a casa. A iluminação\r sempre chega por ângulos\r não tradicionais.\n\nA sala integrada a cozinha\r dá ao térreo quase um\r ar de “loft”, simples e livre. O\r setor íntimo, porém, é isolado\r\npor uma circulação. O pavimento superior é\r exclusivo do fotógrafo, comportando\r uma suíte master\r de quase 30 m², além de um\r amplo closet e um banheiro\r com direito a banheira e vistas\r do jardim.\n"
 seo:
   type: stackbit_page_meta
   title: Galeria Feuer
