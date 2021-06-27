@@ -15,7 +15,7 @@ sections:
       comum e a consistência da paleta de cores. No final das contas, o girly
       resulta em um ambiente atemporal e cheio de mimos.
   - type: image_section
-    image: /images/Image1_001.png
+    image: /images/Image1_001.jpg
     image_alt: Aimi 2
     width: wide
   - type: text_section
