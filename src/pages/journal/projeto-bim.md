@@ -39,7 +39,7 @@ Como o BIM é, por si só, uma abstração conceitual, para ser usado, ele preci
 
 Justamente pelo modelo depender de ferramentas que o implementem, o BIM enfrenta diversas limitações através das plataformas: o artifício da colaboração ainda está submetido a interoperabilidade dos *softwares* e ao método de trabalho dos diferentes profissionais envolvidos no projeto; a visualização do modelo 3D em diferentes plataformas ainda é limitada pela empresa do *software*; a integração do modelo com a informação relacionada a ele ainda não é completa; a gravação de aprovações e revisões também é difícil, visto que centenas de decisões são feitas acerca da modelo no tempo de vida de uma construção, e dezenas de profissionais estão envolvidos; os grandes arquivos armazenados localmente também dificultam a distribuição a todas as partes interessadas em tempo real (ORACLE, 2015).
 
-## Vale a pena?
+## Vale à pena?
 
 Apesar de o BIM ainda não funcionar como prevê a teoria, os softwares baseados no modelo já possibilitam grandes usos em produtividade e diminuição em retrabalho. O BIM é, sem dúvida, o futuro da construção civil. A reimplmentação para incorporar novas interfaces pode não ser imediata, mas é essencial o suficiente para que contemos com ela. Até breve!
 
