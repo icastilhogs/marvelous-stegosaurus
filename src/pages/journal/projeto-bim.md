@@ -1,23 +1,24 @@
 ---
 title: Entenda a essência do BIM
-subtitle: >-
-  Está em confuso? Acha o conceito complexo? É uma metodologia, um método, um
-  fluxo de trabalho ou uma abstração? Entenda BIM de uma vez por todas.
-date: '2021-06-24'
+subtitle: Está em confuso? Acha o conceito complexo? É uma metodologia, um
+  método, um fluxo de trabalho ou uma abstração? Entenda BIM de uma vez por
+  todas.
+date: 2021-06-24
+thumb_image: /images/photo-1569605803663-e9337d901ff9.jpg
 thumb_image_alt: Modelo de informações
+image: /images/YouTube Video – 2.png
 image_alt: Modelo de informação
-excerpt: >-
-  Está em confuso? Acha o conceito complexo? É uma metodologia, um método, um
-  fluxo de trabalho ou uma abstração? Entenda BIM de uma vez por todas.
+excerpt: Está em confuso? Acha o conceito complexo? É uma metodologia, um
+  método, um fluxo de trabalho ou uma abstração? Entenda BIM de uma vez por
+  todas.
 seo:
-  title: ''
-  description: ''
+  title: Entenda a essência do BIM
+  description: O que é o BIM de verdade. Entenda o conceito de modelagem de
+    informação da construção.
   robots: []
   extra: []
   type: stackbit_page_meta
 template: post
-image: /images/YouTube Video – 2.png
-thumb_image: /images/photo-1569605803663-e9337d901ff9.jpg
 ---
 ## Afinal, o que é BIM?
 
