@@ -13,9 +13,4 @@ seo:
   type: stackbit_page_meta
 template: post
 ---
-## Lorem ipsum
-
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- Lorem ipsum
-- dolor sit amet
+Foi publicado na revista da Unicamp, a PARC, um artigo com a participação da colaboradora Isabela Castilho, sobre sua participação na reformulação curricular e espacial do curso de arquitetura do Instituto Federal Fluminense. O artigo pode ser lido [neste link](https://periodicos.sbu.unicamp.br/ojs/index.php/parc/article/view/8660009/27005).
