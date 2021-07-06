@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Ensino de Arquitetura no Século XXI
 subtitle: lorem-ipsum
 date: '2021-07-06'
 thumb_image_alt: lorem-ipsum
