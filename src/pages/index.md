@@ -29,7 +29,7 @@ sections:
     section_id: latest-projects
     title: portfolio
     layout_style: tiles
-    projects_number: 2
+    projects_number: 4
     view_all_label: ver todos
     view_all_url: portfolio
   - section_id: journal
