@@ -4,7 +4,7 @@ subtitle: Reformulação curricular e espacial em um curso de arquitetura e urba
 date: '2021-07-06'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
-excerpt: lorem-ipsum
+excerpt: Reformulação curricular e espacial em um curso de arquitetura e urbanismo
 seo:
   title: ''
   description: ''
