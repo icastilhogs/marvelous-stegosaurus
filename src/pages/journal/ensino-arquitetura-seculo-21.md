@@ -1,9 +1,6 @@
 ---
 title: Ensino de Arquitetura no Século XXI
-subtitle: >-
-  REFORMULAÇÃO CURRICULAR E ESPACIAL EM UM CURSO DE ARQUITETURA E
-  URBANISMOREFORMULAÇÃO CURRICULAR E ESPACIAL EM UM CURSO DE ARQUITETURA E
-  URBANISMO
+subtitle: Reformulação curricular e espacial em um curso de arquitetura e urbanismo
 date: '2021-07-06'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
