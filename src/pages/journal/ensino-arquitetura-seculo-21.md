@@ -12,5 +12,6 @@ seo:
   extra: []
   type: stackbit_page_meta
 template: post
+thumb_image: /images/image_2021-07-06_134143.png
 ---
 Foi publicado na revista da Unicamp, a PARC, um artigo com a participação da colaboradora Isabela Castilho, sobre sua participação na reformulação curricular e espacial do curso de arquitetura do Instituto Federal Fluminense. O artigo pode ser lido [neste link](https://periodicos.sbu.unicamp.br/ojs/index.php/parc/article/view/8660009/27005).
