@@ -64,8 +64,8 @@ sections:
         title: Moisés Soares
         image: /images/important-zucchini.jpg
         content: |
-          *   Modelagem BIM\*   
-          *   Documentação BIM\*   
+          *   Modelagem BIM
+          *   Documentação BIM
           *   Artista 3D/4D
         subtitle: Arquiteto e Urbanista
       - title: Jordan Souza
