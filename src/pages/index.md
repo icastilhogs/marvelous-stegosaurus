@@ -73,8 +73,8 @@ sections:
         image_alt: lorem-ipsum
         content: |
           *   Modelagem BIM
-          *   Compatibilização de projetos
           *   Documentação BIM
+          *   Compatibilização de projetos
         actions: []
         type: grid_item
         image: /images/WhatsApp Image 2021-07-09 at 12.17.29.jpg
