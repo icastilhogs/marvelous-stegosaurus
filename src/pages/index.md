@@ -72,7 +72,6 @@ sections:
         subtitle: Arquiteto e Urbanista
         image_alt: lorem-ipsum
         content: |
-          *   Projetista
           *   Modelagem BIM
           *   Compatibilização de projetos
           *   Documentação BIM
