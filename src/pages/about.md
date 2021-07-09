@@ -67,6 +67,7 @@ sections:
           Autodesk Revit, onde já atuou como monitor durante a graduação.
         actions: []
         type: grid_item
+        image: /images/smiling-robin.jpg
   - section_id: instituicao
     title: onde estivemos
     subtitle: Instituições que fizeram parte da nossa jornada
