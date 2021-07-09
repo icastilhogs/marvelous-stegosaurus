@@ -55,8 +55,8 @@ sections:
         title: Isabela Castilho
         image: images/isabela.png
         content: |
-          *   Direção criativa\*   
-          *   Pesquisa e insight\*   
+          *   Direção criativa
+          *   Pesquisa e insight
           *   Gerenciamento BIM
         actions: []
         subtitle: Diretora
