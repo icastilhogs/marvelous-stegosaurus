@@ -75,17 +75,10 @@ sections:
       - title: Jordan Souza
         subtitle: Arquiteto e Urbanista
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: |
+          *   Modelagem BIM, 
+          *   Compatibilização de projetos 
+          *   Documentação BIM
         actions: []
         type: grid_item
         image: /images/WhatsApp Image 2021-07-09 at 12.17.29.jpeg
