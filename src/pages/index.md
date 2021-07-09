@@ -70,7 +70,7 @@ sections:
           *   Especialista em BIM
 
           *   Artista 3D/4D
-      - title: lorem-ipsum
+      - title: Jordan Souza
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
