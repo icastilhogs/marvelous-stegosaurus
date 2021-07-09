@@ -73,7 +73,7 @@ sections:
           *   Artista 3D/4D
         subtitle: Arquiteto e Urbanista
       - title: Jordan Souza
-        subtitle: lorem-ipsum
+        subtitle: Arquiteto e Urbanista
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
