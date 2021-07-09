@@ -76,8 +76,9 @@ sections:
         subtitle: Arquiteto e Urbanista
         image_alt: lorem-ipsum
         content: |
-          *   Modelagem BIM, 
-          *   Compatibilização de projetos 
+          *   Projetista
+          *   Modelagem BIM
+          *   Compatibilização de projetos
           *   Documentação BIM
         actions: []
         type: grid_item
