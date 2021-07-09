@@ -61,6 +61,7 @@ sections:
 
           *   Gerenciamento de projetos BIM
         actions: []
+        subtitle: Diretora
       - type: grid_item
         title: Moisés Soares
         image: /images/important-zucchini.jpg
