@@ -68,7 +68,7 @@ sections:
           *   Documentação BIM
           *   Artista 3D/4D
         subtitle: Arquiteto e Urbanista
-      - title: Jordan Souza
+      - title: Jordan Ribeiro
         subtitle: Arquiteto e Urbanista
         image_alt: lorem-ipsum
         content: |
