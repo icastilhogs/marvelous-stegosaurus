@@ -59,7 +59,7 @@ sections:
             no_follow: false
             type: action
       - title: Jordan Ribeiro
-        subtitle: lorem-ipsum
+        subtitle: Arquiteto e Urbanista
         image_alt: lorem-ipsum
         content: >
           Arquiteto e urbanista formada pelo Instituto Federal Fluminense. Tem
