@@ -73,15 +73,6 @@
                 "new_window": true
             },
             {
-                "label": "YouTube",
-                "url": "#",
-                "style": "icon",
-                "icon": "youtube",
-                "new_window": true,
-                "no_follow": false,
-                "type": "action"
-            },
-            {
                 "label": "Pinterest",
                 "url": "#",
                 "style": "icon",
