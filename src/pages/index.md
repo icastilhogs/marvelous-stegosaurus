@@ -68,7 +68,7 @@ sections:
         content: |
           *   Projetista
 
-          *   Especialista em BIM
+          *   Modelagem BIM
 
           *   Artista 3D/4D
         subtitle: Arquiteto e Urbanista
