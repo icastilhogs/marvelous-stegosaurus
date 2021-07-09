@@ -58,7 +58,7 @@ sections:
             new_window: true
             no_follow: false
             type: action
-      - title: lorem-ipsum
+      - title: Jordan Ribeiro
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
         content: >
