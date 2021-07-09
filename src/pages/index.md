@@ -88,6 +88,7 @@ sections:
           - dolor sit amet
         actions: []
         type: grid_item
+        image: /images/WhatsApp Image 2021-07-09 at 12.17.29.jpeg
   - type: cta_section
     section_id: cta
     title: Vamos trabalhar juntos!
