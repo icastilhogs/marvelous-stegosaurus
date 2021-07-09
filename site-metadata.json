@@ -71,15 +71,6 @@
                 "style": "icon",
                 "icon": "linkedin",
                 "new_window": true
-            },
-            {
-                "label": "Pinterest",
-                "url": "#",
-                "style": "icon",
-                "icon": "pinterest",
-                "new_window": true,
-                "no_follow": false,
-                "type": "action"
             }
         ]
     },
