@@ -1,6 +1,7 @@
 stackbitVersion: ~0.3.0
 ssgName: gatsby
 ssgVersion: 2.3.30
+nodeVersion: 12.13.0
 buildCommand: npm run build
 publishDir: public
 staticDir: static
@@ -269,7 +270,7 @@ models:
           - stackbit_page_meta
   post:
     type: page
-    urlPath: '/journal/{slug}'
+    urlPath: "/journal/{slug}"
     label: Post
     layout: post
     folder: journal
@@ -313,7 +314,7 @@ models:
           - stackbit_page_meta
   project:
     type: page
-    urlPath: '/portfolio/{slug}'
+    urlPath: "/portfolio/{slug}"
     label: Project
     layout: project
     folder: portfolio
@@ -361,7 +362,7 @@ models:
       - type: string
         name: section_id
         label: ID
-        description: 'A unique identifier of the section, must not contain whitespace'
+        description: "A unique identifier of the section, must not contain whitespace"
       - type: string
         name: title
         label: Title
@@ -536,7 +537,7 @@ models:
       - type: string
         name: view_all_url
         label: All projects button URL
-        default: '#'
+        default: "#"
   posts_section:
     type: object
     label: Posts Section
@@ -631,7 +632,7 @@ models:
       - type: string
         name: form_id
         label: Form ID
-        description: 'A unique identifier of the form, must not contain whitespace'
+        description: "A unique identifier of the form, must not contain whitespace"
         required: true
       - type: string
         name: form_action
@@ -675,12 +676,12 @@ models:
       - type: string
         name: name
         label: Name
-        description: 'The name of the field, submitted with the form'
+        description: "The name of the field, submitted with the form"
         required: true
       - type: string
         name: label
         label: Label
-        description: 'The caption of the field, shown above the field input'
+        description: "The caption of the field, shown above the field input"
       - type: string
         name: default_value
         label: Placeholder or default value
@@ -741,7 +742,7 @@ models:
         name: url
         label: URL
         required: true
-        default: '#'
+        default: "#"
       - type: enum
         name: style
         label: Style
@@ -782,12 +783,12 @@ models:
         name: title
         label: Title
         description: The page title that goes into the <title> tag
-        default: ''
+        default: ""
       - type: string
         name: description
         label: Description
         description: The page description that goes into the <meta name="description"> tag
-        default: ''
+        default: ""
       - type: list
         name: robots
         label: Robots
@@ -815,10 +816,10 @@ models:
           fields:
             - type: string
               name: name
-              default: ''
+              default: ""
             - type: string
               name: value
-              default: ''
+              default: ""
             - type: string
               name: keyName
               default: name
