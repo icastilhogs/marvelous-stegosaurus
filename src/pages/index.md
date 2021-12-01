@@ -2,29 +2,18 @@
 title: Home
 hide_title: true
 sections:
-  - section_id: lorem-ipsum
+  - type: hero_section
+    section_id: lorem-ipsum
     title: lorem-ipsum
-    bg-color: white
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
-    actions:
-      - label: lorem-ipsum
-        url: '#'
-        style: link
-        icon: dribbble
-        new_window: false
-        no_follow: false
-        type: action
-    type: hero_section
+    hero_items:
+      - type: hero_item
+        title: Poesia na Vila dos Pássaros
+        subtitle: >-
+          Um projeto que une tecnologia e sensibilidade
+      - type: hero_item
+        title: As mais novas tecnologias no seu projeto
+        subtitle: >-
+          Visualize suas criações com realidade aumentada
   - type: portfolio_section
     section_id: latest-projects
     title: portfolio

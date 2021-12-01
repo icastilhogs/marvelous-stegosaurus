@@ -34,7 +34,9 @@
     "react-html-parser": "2.0.2",
     "react-responsive-carousel": "^3.2.18",
     "react-script-tag": "1.1.2",
+    "react-slick": "^0.28.1",
     "rehype-react": "3.0.2",
+    "slick-carousel": "^1.8.1",
     "sprintf-js": "1.1.2"
   }
 }
