@@ -17,15 +17,6 @@
                 "style": "link"
             },
             {
-                "label": "serviços",
-                "url": "/servicos",
-                "style": "link",
-                "icon": "dribbble",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
-            },
-            {
                 "type": "action",
                 "label": "portfolio",
                 "url": "/portfolio/",
@@ -59,7 +50,7 @@
             {
                 "type": "action",
                 "label": "Instagram",
-                "url": "https://www.instagram.com/eupoiesearquitetura",
+                "url": "https://www.instagram.com/eupoiese.arquitetura",
                 "style": "icon",
                 "icon": "instagram",
                 "new_window": true

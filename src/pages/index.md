@@ -3,8 +3,8 @@ title: Home
 hide_title: true
 sections:
   - type: hero_section
-    section_id: lorem-ipsum
-    title: lorem-ipsum
+    section_id: hero
+    title: hero
     hero_items:
       - type: hero_item
         title: Poesia na Vila dos Pássaros

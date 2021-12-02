@@ -28,6 +28,8 @@ export default class Blog extends React.Component {
                 {_.get(this.props, 'pageContext.frontmatter.subtitle', null) && (
                 <p className="section__subtitle">{_.get(this.props, 'pageContext.frontmatter.subtitle', null)}</p>
                 )}
+                 <div id="s9comments"></div>
+                 <script defer src="https://social9.com/comments/js/s9comments.js"></script>
               </div>
             </header>
             <div className="section section--portfolio">

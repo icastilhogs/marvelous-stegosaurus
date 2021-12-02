@@ -79,10 +79,14 @@
     margin-left: -$container-padding;
     margin-right: -$container-padding;
   }
-  
+
   .cell {
     padding-left: $container-padding;
     padding-right: $container-padding;
+
+    @media only screen and (max-width: 600px) {
+      text-align: center;
+    }
   }
 }
 
@@ -90,12 +94,12 @@
 .text-block {
   a {
     &:not(.button) {
-      border-bottom: 1px solid rgba($color-accent, .4);
+      border-bottom: 1px solid rgba($color-accent, 0.4);
       color: $color-accent;
 
       &:hover,
       &:focus {
-        opacity: .6;
+        opacity: 0.6;
       }
     }
   }

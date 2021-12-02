@@ -4,19 +4,32 @@
   align-items: center;
 }
 .card {
-  
   &__title {
     font-size: 1.33333em;
     margin: 0;
+    margin-top: 1.11111em;
+
+    @media only screen and (max-width: 768px) {
+      text-align: center;
+    }
   }
 
   &__subtitle {
     color: $color-gray-300;
     font-style: italic;
+
+    @media only screen and (max-width: 768px) {
+      text-align: center;
+    }
   }
 
   &__image {
     margin-bottom: 1.11111em;
+
+    @media only screen and (max-width: 768px) {
+      text-align: center;
+      margin: auto;
+    }
 
     .grid--col-two & {
       max-width: 585px;
@@ -40,12 +53,12 @@
 
     a {
       &:not(.button) {
-        border-bottom: 1px solid rgba($color-accent, .3);
+        border-bottom: 1px solid rgba($color-accent, 0.3);
         color: $color-accent;
-  
+
         &:hover,
         &:focus {
-          opacity: .6;
+          opacity: 0.6;
         }
       }
     }

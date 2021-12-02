@@ -2,13 +2,24 @@
 title: sobre
 hide_title: false
 sections:
-  - type: content_section
+  - section_id: apresentacao
+    type: content_section
     image_alt: Our team in the meeting room
-    content: "Hey!\n\n\nA Eupoiese é um laboratório cibernético descentralizado de arquitetura e urbanismo (e tem urbanismo mesmo, viu?) que auxilia empreendedores a tiraram seus sonhos estrategicamente do papel. Nosso nome é uma neologia criada a partir do radical grego \"poiesis\", origem da palavra \"poesia\", que também significa criação. Junto ao prefixo grego \"eu\" - \"perfeito\" -, a palavra significa \"criação superior\", ou \"criação perfeita\". Mais que isso, como um laboratório cibernético - isto é, que estuda padrões de controle a comunicação -, fazemos referência ao estilo de linguagem poética, pela sua capacidade e ousadia de capturar e transmitir as complexidades e abstrações humanas.\n\n\nNossa missão é impulsionar seu negócio, seja ele de porte micro, pequeno ou grande, para que ele atinja seu potencial máximo, sendo capaz de oferecer produtos e serviços de altíssima qualidade, que melhoram a qualidade de vida das pessoas que ele atende (inclusve a gente).  O laboratório possui três principais frentes de atuação: Comercial/Corporativo - lojas, consultórios, escritórios, estúdios; Cultural/Social - parques, praças, museus e Empreendimento - Pprédios, condomínios/parcelamentos, aeroporto, hospitais, shoppings e fazendas. Apesar de menos frequente, também atuamos na linha residencial, projetando casas, apartamentos e refúgios cheios de emoção e poesia.  Nosso manifesto é:\n\n>\n> \"Sem sonhos não haveria Via Láctea nem estrelas\"\n\n\nPensar não é suficiente. Como diria Kierkegaard, “escolher-se é existir-se”. E quem sonha deseja. Desejar é mais que pensar. O desejo é criativo, fractalmente, universo a fora. Quem existe cria. Quem existe, necessariamente, deseja, mais do que simplesmente reflete.\nSonhe. Porque sonhos criaram o mundo e o recriam a cada dia. Sonhe. Sonhe, porque sem sonhos não haveria Via Láctea nem estrelas. Sonhe, porque você mesmo é um sonho da criação e, por isto, você existe. Sonhe, porque quem não sonha não vai a lua. Quem não sonha não vai a luta. Sonhe para escolher-se. Sonhe para existir-se.\n\n\nSonhe, porque só o sonho movimenta. E o movimento é o criador do tempo. Os sonhos são as fronteiras do universo. Não é à toa que os cientistas cibernéticos concluíram que a vida é fleissgleichgewicht, o contínuo estado de equilíbrio dinâmico. Todo sistema vivo opera longe do equilíbrio. Todo sistema vivo movimenta-se. E não é clichê, é ciência — as crises são transbordamento de complexidade que nos levam aos pontos de bifurcação: ou ascendemos a uma nova ordem e um novo estado de (des)equilíbrio (equilíbrio dinâmico, ritmo, movimento), ou perdemos por completo tudo que já havia sido construído. O fato é que, após escolher, quem escolheu já não mais existe.\n\n\nCrescer é morrer para renascer. Viver e morrer é organizar e reorganizar constantemente, incessantemente. E só quem sonha bagunça. Só quem sonha embaralha e reorganiza. Acorde hoje para sonhar. Sonhe com suas pernas, sonhe com seus braços. Sonhe com lapiseiras, pincéis, tijolos e números.  Bagunce a vida com muita elegância, como apenas um grande sonhador faria. Sonhe, porque você existe.\n\n\nE aí, o que anda impulsionando seu coração ou inquietando sua mente? Quer ver sua poesia virando arquitetura? Ou o oposto? tanto faz.  Leia as instruções e preencha nosso pré-briefing e entraremos em contato com você.\_ É incorporador ou tem uma construtora? Seu caminho é por aqui.\n"
-  - type: grid_section
-    section_id: team
+    content: >
+      Hey!
+
+
+      A Eupoiese é um laboratório cibernético descentralizado de arquitetura e urbanismo (e tem urbanismo mesmo, viu?) que auxilia empreendedores a tiraram seus sonhos estrategicamente do papel. Nosso nome é uma neologia criada a partir do radical grego \"poiesis\", origem da palavra \"poesia\", que também significa criação. Junto ao prefixo grego \"eu\" - \"perfeito\" -, a palavra significa \"criação superior\", ou \"criação perfeita\". Mais que isso, como um laboratório cibernético - isto é, que estuda padrões de controle a comunicação -, fazemos referência ao estilo de linguagem poética, pela sua capacidade e ousadia de capturar e transmitir as complexidades e abstrações humanas.
+
+
+      Nossa missão é impulsionar seu negócio, seja ele de porte micro, pequeno ou grande, para que ele atinja seu potencial máximo, sendo capaz de oferecer produtos e serviços de altíssima qualidade, que melhoram a qualidade de vida das pessoas que ele atende (inclusve a gente).  O laboratório possui três principais frentes de atuação: Comercial/Corporativo - lojas, consultórios, escritórios, estúdios; Cultural/Social - parques, praças, museus e Empreendimento - Pprédios, condomínios/parcelamentos, aeroporto, hospitais, shoppings e fazendas. Apesar de menos frequente, também atuamos na linha residencial, projetando casas, apartamentos e refúgios cheios de emoção e poesia. 
+
+
+      E aí, o que anda impulsionando seu coração ou inquietando sua mente? Quer ver sua poesia virando arquitetura? Ou o oposto? tanto faz.  Leia as instruções e preencha nosso pré-briefing e entraremos em contato com você.\_ É incorporador ou tem uma construtora? Seu caminho é por aqui.
+
+  - section_id: team
+    type: grid_section
     title: time
-    subtitle: nossos família
     col_number: three
     grid_items:
       - type: grid_item
@@ -25,7 +36,7 @@ sections:
         actions:
           - type: action
             label: Twitter
-            url: 'https://twitter.com/inmathterms'
+            url: "https://twitter.com/inmathterms"
             style: icon
             icon: twitter
             new_window: true
@@ -47,12 +58,12 @@ sections:
         actions:
           - type: action
             label: Twitter
-            url: 'https://twitter.com/'
+            url: "https://twitter.com/"
             style: icon
             icon: twitter
             new_window: true
           - label: Instagram
-            url: 'https://www.instagram.com/moisesoarquiteto'
+            url: "https://www.instagram.com/moisesoarquiteto"
             style: icon
             icon: instagram
             new_window: true
@@ -69,6 +80,7 @@ sections:
         type: grid_item
         image: /images/smiling-robin.jpg
   - section_id: instituicao
+    type: grid_section
     title: onde estivemos
     subtitle: Instituições que fizeram parte da nossa jornada
     col_number: five
@@ -93,32 +105,182 @@ sections:
         actions: []
         type: grid_item
         image: /images/unnamed (4).png
+  - section_id: servicos
+    type: content_section
+    title: serviços
+    subtitle: Conheça nossas principais frentes de serviço
+    image_alt: Conheça nossas principais frentes de serviço
+    bg-color: white
+    content: >
+      Vamos começar assim: somos diferentes e seu projeto também será. Sendo
+      mais precisos, será único. Temos a prática de adotar soluções complexas (e
+      amamos MUITO isso), evitando repetições e buscando a otimização no
+      processo de organização espacial, seja com o uso de algoritmos ou outras
+      ferramentas mais tradicionais de projeto, como matrizes de correlação e
+      fluxogramas.
+
+
+      As nossas principais frentes são direcionadas a empreendedores e/ou
+      incorporadores: comercial/coorporativo; empreendimentos; social/cultural.
+
+  - section_id: frentes
+    title: as frentes
+    subtitle: >-
+      Nossas principais frentes são direcionadas a empreendedores e/ou
+      incorporadores
+    bg-color: gray
+    col_number: three
+    grid_items:
+      - title: Comercial/Corporativo
+        subtitle: "lojas, consultórios, escritórios, estúdios"
+        image_alt: Corporativo
+        actions: []
+        type: grid_item
+        image: /images/portfolio/feuer/001.jpg
+        content: >
+          Voltado para empreendedores que buscam abrir a sede ou uma nova filial
+          para expandir seu espaço de domínio físico. Entre projetos e
+          consultorias, podemos auxiliar na escolha do terreno ideal, com os
+          indíces urbanísticos adequados, até a elaboração de um projeto
+          executivo completo em BIM.
+      - title: Empreendimentos
+        subtitle: >-
+          prédios, condomínios/parcelamentos, aeroporto, hospitais, shoppings,
+          fazendas
+        image_alt: lorem-ipsum
+        actions: []
+        type: grid_item
+        image: /images/portfolio/gardenia/001.jpg
+        content: >
+          Em negócios que não atenderão diretamente ao contratante, mas sim a
+          terceiros, auxiliamos no processo desde a consultoria para definição
+          do terreno até pesquisas de design research completas antes do início
+          do projeto. Em seguida, desenvolvemos desde estudos preliminares com
+          otimização combinatória até projetos executivos completamente
+          compatibilizados no Naviswork.
+      - title: Social/Cultural
+        subtitle: "parques, praças, museus"
+        image_alt: lorem-ipsum
+        actions: []
+        type: grid_item
+        image: /images/museu-02.jpg
+        content: >
+          Em projetos sociais e/ou culturais soltamos toda nossa criatividade
+          sinestesicamente, num processo exploratório de design que leve ao
+          desenvolvimento de peças únicas e desruptivas.
     type: grid_section
+  - section_id: lorem-ipsum
+    image_alt: lorem-ipsum
+    content: >
+      Dizem por aí que abrir uma empresa é empolgante. Apesar de verdadeiro, a
+      empolgação vem com muita ansiedade, preocupações, contas e escolhas
+      difíceis. Precisamos sentirmo-nos seguros e amparados para desfrutarmos
+      desse momento e, o mais importante, construir raízes fortes para crescer,
+      desenvolvendo todo nosso potencial para perdurarmos mesmo durante as
+      crises. E elas virão (aceita que dói menos).
+
+
+      Como profissionais responsáveis e qualificados, estaremos ao seu lado
+      durante a materialização dos seus sonhos e projetos de vida. Queremos
+      compartilhar essas emoções contigo e fazer parte do nascimento (ou nova
+      fase) do seu negócio/empreendimento, potencializando os seus pontos fortes
+      e prezando a excelência dos processos que se realizam no espaço, para que,
+      ao entrar na vida de inúmeras outras pessoas, sua empresa seja lembrada
+      pelo conforto, acolhimento, excelência e humanidade que conecta e provoca
+      memórias afetivas.
+
+
+      O primeiro passo para trilharmos juntos esse caminho é o briefing. Veja a
+      seguir:
+
+
+      #### o briefing
+
+
+      É dada a largada a partir de uma entrevista muito detalhada e longas
+      conversas gostosas promovidas a café ou outro aperitivo de sua
+      preferência. Não guarde detalhes que pareçam irrelevantes - tudo fará a
+      diferença para montarmos o programa de necessidades perfeito e darmos à
+      luz ao conceito projetual. Quanto mais completas e explícitas estiverem as
+      prerrogativas e condicionantes, mais rápido o processo irá fluir,
+
+
+      #### o conceito
+
+
+      Aqui o seu projeto, de fato, ganha um DNA. Esse código é o responsável
+      pelos fenótipos (as pessoas normais chamam de *partido*, só para ficar
+      claro) que apreciaremos. O conceito é a direção que nos guiará e
+      responderá a todas as dúvidas que surgirem durante a projetação. É ele
+      também que faz do seu projeto único. É o porquê dos porquês.
+
+
+      #### o partido
+
+
+      O partido é como o conceito ou abstração se materializa no mundo físico,
+      como somos capazes de honrá-lo. Os partidos podem se alterar com mais
+      facilidade que o conceito, e respondem a muitas outras variáveis
+      qualiativas e quantitativas.
+
+
+      #### abra as portas
+
+
+      ![](https://images.unsplash.com/photo-1581613856477-f65208436a48?ixlib=rb-1.2.1\&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8\&auto=format\&fit=crop\&w=1952\&q=80)
+
+
+      Se for viável, estaremos contigo também durante a etapa executiva e a
+      entrega final das chaves. É durante essa fase que são entregues todos os
+      detalhamentos, orçamento físico-financeiro e alinhamento com fornecedores,
+      para um maior controle de custos e prazos. Caso estejamos muito distantes,
+      terminando o ciclo criativo, encaminhamos seu projeto para um de nossos
+      parceiros de confiança e excelência para uma documentação executiva
+      completa e sem dores de cabeça! Você está pronto para abrir as portas do
+      seu novo negócio?
+
+
+      Por fim, desejamos que seu trabalho seja sagrado, feliz e edificante
+      dentro de um espaço de alto desempenho e indicadores de qualidade
+      ambiental de excelência. Quer saber mais sobre os nossos projetos? Acesse
+      a nossa página de portfolio e conheça nossas histórias de destaque. Veja
+      sua poesia virando arquitetura, ou o oposto, tanto faz. Leia as instruções
+      e preencha nosso pré-briefing e entraremos em contato com você.
+    type: content_section
+    bg-color: white
+  - section_id: portfolio
+    title: nossos projetos
+    subtitle: Conheça nossos projetos
+    layout_style: tiles
+    projects_number: 2
+    view_all_label: ver todos
+    view_all_url: /portfolio
+    type: portfolio_section
 seo:
   type: stackbit_page_meta
   title: Sobre
   description: Essa é uma página de descrição da empresa
   extra:
-    - name: 'og:type'
+    - name: "og:type"
       value: website
       keyName: property
-    - name: 'og:title'
+    - name: "og:title"
       value: About Us
       keyName: property
-    - name: 'og:description'
+    - name: "og:description"
       value: Essa é uma página de descrição da empresa
       keyName: property
-    - name: 'og:image'
+    - name: "og:image"
       value: images/about.jpg
       keyName: property
       relativeUrl: true
-    - name: 'twitter:card'
+    - name: "twitter:card"
       value: summary_large_image
-    - name: 'twitter:title'
+    - name: "twitter:title"
       value: About Us
-    - name: 'twitter:description'
+    - name: "twitter:description"
       value: Essa é uma página de descrição da empresa
-    - name: 'twitter:image'
+    - name: "twitter:image"
       value: images/about.jpg
       relativeUrl: true
 template: advanced
