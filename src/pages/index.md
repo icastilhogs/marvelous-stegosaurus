@@ -22,7 +22,6 @@ sections:
   - type: grid_section
     section_id: team
     title: quem somos
-    subtitle: nossa família de experts
     col_number: three
     grid_items:
       - type: grid_item
