@@ -1,5 +1,5 @@
 ---
-title: sobre
+title: quem somos
 hide_title: false
 sections:
   - section_id: apresentacao
