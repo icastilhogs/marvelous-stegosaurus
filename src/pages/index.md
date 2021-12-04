@@ -52,7 +52,7 @@ sections:
         type: grid_item
         image: /images/WhatsApp Image 2021-07-09 at 12.17.29.jpg
   - bg-color: white
-    section_id: lorem-ipsum
+    section_id: saiba mais
     actions:
       - label: saiba mais
         url: /about
