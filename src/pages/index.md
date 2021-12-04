@@ -118,7 +118,7 @@ sections:
       non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac
       dui. Integer vel convallis justo.
     actions:
-      - label: lorem-ipsum
+      - label: saiba mais
         url: '#'
         style: link
         icon: dribbble
