@@ -84,7 +84,6 @@ sections:
     type: posts_section
   - bg-color: white
     section_id: lorem-ipsum
-    title: lorem-ipsum
     content: >-
       Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
       efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor
