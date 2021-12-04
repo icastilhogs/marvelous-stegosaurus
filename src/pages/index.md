@@ -51,6 +51,19 @@ sections:
         actions: []
         type: grid_item
         image: /images/WhatsApp Image 2021-07-09 at 12.17.29.jpg
+  - bg-color: white
+    section_id: lorem-ipsum
+    actions:
+      - label: saiba mais
+        url: '#'
+        style: link
+        icon: dribbble
+        new_window: false
+        no_follow: false
+        type: action
+    image_alt: lorem-ipsum
+    bg_color: none
+    type: cta_section
   - type: cta_section
     section_id: cta
     title: Vamos trabalhar juntos!
@@ -82,18 +95,5 @@ sections:
         no_follow: false
         type: action
     type: posts_section
-  - bg-color: white
-    section_id: lorem-ipsum
-    actions:
-      - label: saiba mais
-        url: '#'
-        style: link
-        icon: dribbble
-        new_window: false
-        no_follow: false
-        type: action
-    image_alt: lorem-ipsum
-    bg_color: none
-    type: cta_section
 template: advanced
 ---
