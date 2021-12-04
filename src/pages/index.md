@@ -8,12 +8,10 @@ sections:
     hero_items:
       - type: hero_item
         title: Poesia na Vila dos Pássaros
-        subtitle: >-
-          Um projeto que une tecnologia e sensibilidade
+        subtitle: Um projeto que une tecnologia e sensibilidade
       - type: hero_item
         title: As mais novas tecnologias no seu projeto
-        subtitle: >-
-          Visualize suas criações com realidade aumentada
+        subtitle: Visualize suas criações com realidade aumentada
   - type: portfolio_section
     section_id: latest-projects
     title: portfolio
@@ -21,19 +19,6 @@ sections:
     projects_number: 4
     view_all_label: ver todos
     view_all_url: portfolio
-  - section_id: journal
-    title: journal
-    posts_number: 2
-    col_number: two
-    actions:
-      - label: ver todos
-        url: /journal
-        style: button
-        icon: dribbble
-        new_window: false
-        no_follow: false
-        type: action
-    type: posts_section
   - type: grid_section
     section_id: team
     title: time
@@ -85,5 +70,18 @@ sections:
     image: /images/service-1.svg
     image_alt: Illustration
     bg_color: light
+  - section_id: journal
+    title: journal
+    posts_number: 2
+    col_number: two
+    actions:
+      - label: ver todos
+        url: /journal
+        style: button
+        icon: dribbble
+        new_window: false
+        no_follow: false
+        type: action
+    type: posts_section
 template: advanced
 ---
