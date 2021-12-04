@@ -56,7 +56,7 @@ sections:
     actions:
       - label: saiba mais
         url: /about
-        style: link
+        style: button
         icon: dribbble
         new_window: false
         no_follow: false
