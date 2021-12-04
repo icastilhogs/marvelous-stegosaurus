@@ -77,7 +77,7 @@ sections:
     actions:
       - type: action
         label: começar
-        url: /contact
+        url: /about
         style: button
     image: /images/service-1.svg
     image_alt: Illustration
