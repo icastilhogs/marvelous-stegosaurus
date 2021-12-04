@@ -55,7 +55,7 @@ sections:
     section_id: lorem-ipsum
     actions:
       - label: saiba mais
-        url: '#'
+        url: /
         style: link
         icon: dribbble
         new_window: false
