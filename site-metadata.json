@@ -18,6 +18,12 @@
             },
             {
                 "type": "action",
+                "label": "sobre",
+                "url": "/about/",
+                "style": "link"
+            },
+            {
+                "type": "action",
                 "label": "portfolio",
                 "url": "/portfolio/",
                 "style": "link"
@@ -26,12 +32,6 @@
                 "type": "action",
                 "label": "journal",
                 "url": "/journal/",
-                "style": "link"
-            },
-            {
-                "type": "action",
-                "label": "sobre",
-                "url": "/about/",
                 "style": "link"
             },
             {
