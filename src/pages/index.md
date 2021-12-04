@@ -21,7 +21,7 @@ sections:
     view_all_url: portfolio
   - type: grid_section
     section_id: team
-    title: time
+    title: quem somos
     subtitle: nossa família de experts
     col_number: three
     grid_items:
