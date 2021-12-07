@@ -2,45 +2,6 @@
 title: Home
 hide_title: true
 sections:
-  - type: hero_section
-    section_id: hero
-    title: hero
-    hero_items:
-      - type: hero_item
-        title: Poesia na Vila dos Pássaros
-        subtitle: Um projeto que une tecnologia e sensibilidade
-      - type: hero_item
-        title: As mais novas tecnologias no seu projeto
-        subtitle: Visualize suas criações com realidade aumentada
-<<<<<<< HEAD
-=======
-  - section_id: instituicao
-    type: grid_section
-    title: onde estivemos
-    subtitle: Instituições que fizeram parte da nossa jornada
-    col_number: five
-    grid_items:
-      - image_alt: instituto federal fluminense
-        actions: []
-        type: grid_item
-        image: /images/unnamed (3).png
-      - image_alt: lorem-ipsum
-        actions: []
-        type: grid_item
-        image: /images/unnamed (7).png
-      - image_alt: urbana unicamp
-        actions: []
-        type: grid_item
-        image: /images/graceful-owl.png
-      - image_alt: lorem-ipsum
-        actions: []
-        type: grid_item
-        image: /images/13f379e7d43c_parc.jpg
-      - image_alt: coppe ufrj
-        actions: []
-        type: grid_item
-        image: /images/unnamed (4).png
->>>>>>> parent of c0e93c5 (mudanças css)
   - type: portfolio_section
     section_id: latest-projects
     title: portfolio
