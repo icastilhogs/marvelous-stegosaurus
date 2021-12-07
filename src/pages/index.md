@@ -16,20 +16,20 @@ sections:
     type: grid_section
     title: onde estivemos
     subtitle: Instituições que fizeram parte da nossa jornada
-    col_number: three
+    col_number: five
     grid_items:
       - image_alt: instituto federal fluminense
         actions: []
         type: grid_item
-        image: /images/iff.png
-      - image_alt: valente empreendimentos
+        image: /images/unnamed (3).png
+      - image_alt: lorem-ipsum
         actions: []
         type: grid_item
-        image: /images/valente.png
+        image: /images/unnamed (7).png
       - image_alt: urbana unicamp
         actions: []
         type: grid_item
-        image: /images/urbana.png
+        image: /images/graceful-owl.png
       - image_alt: lorem-ipsum
         actions: []
         type: grid_item
@@ -37,11 +37,7 @@ sections:
       - image_alt: coppe ufrj
         actions: []
         type: grid_item
-        image: /images/coppe.png
-      - image_alt: cejen engenharia
-        actions: []
-        type: grid_item
-        image: /images/cejen.png
+        image: /images/unnamed (4).png
   - type: portfolio_section
     section_id: latest-projects
     title: portfolio
