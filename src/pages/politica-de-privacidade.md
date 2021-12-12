@@ -5,7 +5,7 @@ sections:
   - bg-color: white
     section_id: politica-de-privacidade
     title: Política de Privacidade
-    subtitle: null
+    subtitle: 'A sua privacidade é importante para nós. '
     image_alt: null
     content: >
       É política do Eupoiese respeitar a sua privacidade em relação a qualquer
