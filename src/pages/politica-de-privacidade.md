@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - bg-color: white
     section_id: politica-de-privacidade
-    title: null
+    title: Política de Privacidade
     subtitle: null
     image_alt: null
     content: >
