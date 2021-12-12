@@ -4,9 +4,9 @@ subtitle: Está em confuso? Acha o conceito complexo? É uma metodologia, um
   método, um fluxo de trabalho ou uma abstração? Entenda BIM de uma vez por
   todas.
 date: 2021-06-24
-thumb_image: /images/photo-1569605803663-e9337d901ff9.jpg
+thumb_image: /images/blog/photo-1569605803663-e9337d901ff9.jpg
 thumb_image_alt: Modelo de informações
-image: /images/bim.png
+image: /images/blog/bim.png
 image_alt: Modelo de informação
 excerpt: Está em confuso? Acha o conceito complexo? É uma metodologia, um
   método, um fluxo de trabalho ou uma abstração? Entenda BIM de uma vez por

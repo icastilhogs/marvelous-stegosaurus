@@ -18,7 +18,7 @@ export const query = graphql`
 export default class Portfolio extends React.Component {
     render() {
         let layout_style = _.get(this.props, 'pageContext.frontmatter.layout_style', null) || 'mosaic';
-        let projects_sorted = _.orderBy(getPages(this.props.pageContext.pages, '/portfolio'), 'frontmatter.date', 'desc');
+        let projects_sorted = _.orderBy(getPages(this.props.pageContext.pages, '/journal'), 'frontmatter.date', 'desc');
         return (
             <Layout {...this.props}>
             <header className={classNames('section', 'section--header', {'screen-reader-text': _.get(this.props, 'pageContext.frontmatter.hide_title', null)})}>

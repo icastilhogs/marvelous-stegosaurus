@@ -1,9 +1,9 @@
 ---
 title: Arquitetura cibernética do início ao fim
 date: '2021-01-15'
-thumb_image: images/journal/photo-1552688468-d87e6f7a58f2.jpg
+thumb_image: images/blog/photo-1552688468-d87e6f7a58f2.jpg
 thumb_image_alt: White wooden table with a chair
-image: images/journal/photo-1552688468-d87e6f7a58f2.jpg
+image: images/blog/photo-1552688468-d87e6f7a58f2.jpg
 image_alt: White wooden table with a chair
 excerpt: >-
   Você sabe o que é arquitetura cibernética? Neste trabalho acadêmico explicamos

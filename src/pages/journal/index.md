@@ -1,8 +1,7 @@
 ---
 title: journal
-subtitle: 'artigos, destaques e novidades'
-hide_title: false
-col_number: three
+subtitle: conheça um pouco do processo projetual dos nossos projetos favoritos
+layout_style: tiles
 seo:
   type: stackbit_page_meta
   title: Journal
@@ -15,10 +14,10 @@ seo:
       value: Journal
       keyName: property
     - name: 'og:description'
-      value: This is the journal page
+      value: This is the portfolio page
       keyName: property
     - name: 'og:image'
-      value: images/post-1.jpg
+      value: images/work-book-1.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -26,9 +25,9 @@ seo:
     - name: 'twitter:title'
       value: Journal
     - name: 'twitter:description'
-      value: This is the journal page
+      value: This is the portfolio page
     - name: 'twitter:image'
-      value: images/post-1.jpg
+      value: images/work-book-1.jpg
       relativeUrl: true
-template: blog
+template: portfolio
 ---

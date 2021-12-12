@@ -1,5 +1,5 @@
 ---
-title: Contato
+title: Diga olá!
 hide_title: false
 sections:
   - type: form_section
@@ -8,7 +8,7 @@ sections:
       Vamos construir algo incrível??<br>
 
       Complete o formulário de contato ou envie um e-mail para
-      [hey@eupoiese.com](mailto:hey@eupoiese.com).
+      [atendimento@eupoiese.com](mailto:atendimento@eupoiese.com).
 
 
       ***

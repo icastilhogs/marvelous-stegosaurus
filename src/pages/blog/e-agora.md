@@ -1,18 +1,19 @@
 ---
-title: Como um projeto funciona?
-subtitle: Todas as etapas explicadinhas
-date: '2021-12-04'
-thumb_image: https://images.unsplash.com/photo-1581613856477-f65208436a48?ixlib=rb-1.2.1\&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8\&auto=format\&fit=crop\&w=1952\&q=80
+title: E agora?
+subtitle: Como profissionais responsáveis e qualificados, estaremos ao seu lado durante a materialização dos seus sonhos e projetos de vida.
+date: '2021-07-06'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
-excerpt: Como profissionais responsáveis e qualificados, estaremos ao seu lado durante a materialização dos seus sonhos e projetos de vida. 
+excerpt: Como profissionais responsáveis e qualificados, estaremos ao seu lado durante a materialização dos seus sonhos e projetos de vida.
 seo:
-  title: 'Como um projeto de arquitetura funciona'
+  title: ''
   description: ''
   robots: []
   extra: []
   type: stackbit_page_meta
 template: post
+thumb_image: /images/blog/abrindo-as-portas.jpg
+image: /images/blog/abrindo-as-portas.jpg
 ---
 Dizem por aí que abrir uma empresa é empolgante. Apesar de verdadeiro, a
 empolgação vem com muita ansiedade, preocupações, contas e escolhas

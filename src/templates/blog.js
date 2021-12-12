@@ -19,7 +19,7 @@ export const query = graphql`
 export default class Blog extends React.Component {
     render() {
         let col_number = _.get(this.props, 'pageContext.frontmatter.col_number', null) || 'three';
-        let posts_sorted = _.orderBy(getPages(this.props.pageContext.pages, '/journal'), 'frontmatter.date', 'desc');
+        let posts_sorted = _.orderBy(getPages(this.props.pageContext.pages, '/blog'), 'frontmatter.date', 'desc');
         return (
             <Layout {...this.props}>
             <header className={classNames('section', 'section--header', {'screen-reader-text': _.get(this.props, 'pageContext.frontmatter.hide_title', null)})}>
@@ -28,8 +28,6 @@ export default class Blog extends React.Component {
                 {_.get(this.props, 'pageContext.frontmatter.subtitle', null) && (
                 <p className="section__subtitle">{_.get(this.props, 'pageContext.frontmatter.subtitle', null)}</p>
                 )}
-                 <div id="s9comments"></div>
-                 <script defer src="https://social9.com/comments/js/s9comments.js"></script>
               </div>
             </header>
             <div className="section section--portfolio">

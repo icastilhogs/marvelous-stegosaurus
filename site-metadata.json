@@ -24,14 +24,14 @@
             },
             {
                 "type": "action",
-                "label": "portfolio",
-                "url": "/portfolio/",
+                "label": "journal",
+                "url": "/journal/",
                 "style": "link"
             },
             {
                 "type": "action",
-                "label": "journal",
-                "url": "/journal/",
+                "label": "blog",
+                "url": "/blog/",
                 "style": "link"
             },
             {
@@ -44,13 +44,45 @@
     },
     "footer": {
         "type": "footer",
-        "content": "Eupoiese LTDA - CNPJ 42.294.032/0001-97<br>Avenida Brigadeiro Faria Lima, 2369 - Conj. 1102 <br>Jardim Paulista - São Paulo/SP <br>CEP 01452-922<br><br>© Copyright Eupoiese™. Todos os direitos reservados.",
+        "content": "© Copyright Eupoiese™. Todos os direitos reservados.",
         "has_social": true,
+        "links": [
+            {
+                "type": "action",
+                "label": "Home",
+                "url": "/"
+            }, 
+            {
+                "type": "action",
+                "label": "Quem somos",
+                "url": "/about"
+            }, 
+            {
+                "type": "action",
+                "label": "Journal",
+                "url": "/journal"
+            }, 
+            {
+                "type": "action",
+                "label": "Blog",
+                "url": "/blog"
+            }, 
+            {
+                "type": "action",
+                "label": "Contato",
+                "url": "/contact"
+            },
+            {
+                "type": "action",
+                "label": "Política de privacidade",
+                "url": "/politica-de-privacidade"
+            }
+        ],
         "social_links": [
             {
                 "type": "action",
                 "label": "Instagram",
-                "url": "https://www.instagram.com/eupoiese.arquitetura",
+                "url": "https://www.instagram.com/eupoiese.art",
                 "style": "icon",
                 "icon": "instagram",
                 "new_window": true
@@ -66,5 +98,5 @@
         ]
     },
     "domain": "https://eupoiese.com",
-    "favicon": "/images/Asset 8@0.5x.png"
+    "favicon": "/images/eupoiese-favicon.png"
 }

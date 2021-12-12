@@ -1,9 +1,9 @@
 ---
 title: O urbanismo não faz ciência
 date: '2021-02-12'
-thumb_image: images/journal/Jane_Jacobs.jpg
+thumb_image: images/blog/Jane_Jacobs.jpg
 thumb_image_alt: White desk lamp beside green plant
-image: images/journal/Jane_Jacobs.jpg
+image: images/blog/Jane_Jacobs.jpg
 image_alt: White desk lamp beside green plant
 excerpt: >-
   Frase da jornalista norte-americana Jane Jacobs, autora de "Morte e Vida das

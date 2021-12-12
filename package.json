@@ -18,7 +18,6 @@
     "gatsby": "2.25.4",
     "gatsby-plugin-react-helmet": "3.3.3",
     "gatsby-plugin-sass": "2.8.0",
-    "gatsby-plugin-social9-socialshare": "^1.0.5",
     "gatsby-plugin-typescript": "2.4.4",
     "gatsby-source-filesystem": "2.3.10",
     "gatsby-transformer-remark": "2.8.14",
@@ -33,11 +32,9 @@
     "react-dom": "16.13.1",
     "react-helmet": "5.2.1",
     "react-html-parser": "2.0.2",
-    "react-responsive-carousel": "^3.2.18",
+    "react-responsive-carousel": "^3.2.22",
     "react-script-tag": "1.1.2",
-    "react-slick": "^0.28.1",
     "rehype-react": "3.0.2",
-    "slick-carousel": "^1.8.1",
     "sprintf-js": "1.1.2"
   }
 }

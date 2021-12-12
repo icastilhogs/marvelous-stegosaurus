@@ -4,8 +4,7 @@ hide_title: false
 sections:
   - type: hero_section
     content: >-
-      Thank you for testing this template. We hope you like it. Have a great
-      day!
+      Obrigada pelo contato! Até breve!
     actions:
       - type: action
         label: Voltar a página inicial

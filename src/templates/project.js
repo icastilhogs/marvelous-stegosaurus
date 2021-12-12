@@ -18,7 +18,7 @@ export const query = graphql`
 
 export default class Project extends React.Component {
     render() {
-        let projects_sorted = _.orderBy(getPages(this.props.pageContext.pages, '/portfolio'), 'frontmatter.date', 'desc');
+        let projects_sorted = _.orderBy(getPages(this.props.pageContext.pages, '/journal'), 'frontmatter.date', 'desc');
         let project_item_len = _.size(projects_sorted);
         return (
             <Layout {...this.props}>

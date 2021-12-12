@@ -4,87 +4,54 @@ hide_title: true
 sections:
   - type: portfolio_section
     section_id: latest-projects
-    title: portfolio
+    title: journal
     layout_style: tiles
     projects_number: 4
     view_all_label: ver todos
-    view_all_url: portfolio
-  - type: grid_section
-    section_id: team
-    title: quem somos
-    col_number: three
-    grid_items:
-      - type: grid_item
-        title: Isabela Castilho
-        image: images/isabela.png
-        content: |
-          *   Direção criativa
-          *   Pesquisa e insight
-          *   Gerenciamento BIM
-        actions: []
-        subtitle: Diretora
-      - type: grid_item
-        title: Moisés Soares
-        image: /images/important-zucchini.jpg
-        content: |
-          *   Modelagem BIM
-          *   Documentação BIM
-          *   Artista 3D/4D
-        subtitle: Arquiteto e Urbanista
-      - title: Jordan Ribeiro
-        subtitle: Arquiteto e Urbanista
-        image_alt: lorem-ipsum
-        content: |
-          *   Modelagem BIM
-          *   Documentação BIM
-          *   Compatibilização de projetos
-        actions: []
-        type: grid_item
-        image: /images/WhatsApp Image 2021-07-09 at 12.17.29.jpg
-  - bg-color: white
-    section_id: saiba mais
-    actions:
-      - label: saiba mais
-        url: /about
-        style: button
-        icon: dribbble
-        new_window: false
-        no_follow: false
-        type: action
-    image_alt: lorem-ipsum
-    bg_color: none
-    type: cta_section
-    title: saiba mais
+    view_all_url: journal
   - type: cta_section
     section_id: cta
-    title: Vamos trabalhar juntos!
+    title: eupoiese é comunicação poética
     content: >
-      Veja sua poesia virando arquitetura, ou o oposto, tanto faz. Leia as
-      instruções e preencha nosso pré-briefing e entraremos em contato com você.
-
-      Ainda está pensando? Diga "Olá" pelo e-mail atendimento@eupoiese.com ou
-      pelo WhatsApp pelo número +55 22 9 8845-6722 e conte-nos seus objetivos e
-      ideias!
+      Nosso nome é uma neologia criada a partir do radical grego "poiesis", origem da palavra "poesia", que também significa criação. Junto ao prefixo grego "eu" - "perfeito" -, a palavra significa "criação superior", ou "criação perfeita". Mais que isso, como um laboratório cibernético - isto é, que estuda padrões de controle a comunicação -, fazemos referência ao estilo de linguagem poética, pela sua capacidade e ousadia de capturar e transmitir as complexidades e abstrações humanas.
     actions:
       - type: action
-        label: começar
-        url: /contato
+        label: saiba mais
+        url: /about
         style: button
     image: /images/service-1.svg
     image_alt: Illustration
     bg_color: light
-  - section_id: journal
-    title: journal
+  - section_id: blog
+    title: blog
     posts_number: 2
     col_number: two
     actions:
       - label: ver todos
-        url: /journal
+        url: /blog
         style: button
         icon: dribbble
         new_window: false
         no_follow: false
         type: action
     type: posts_section
+  - type: cta_section
+    section_id: cta
+    title: Vamos trabalhar juntos?
+    content: >
+      Veja sua poesia virando arquitetura, ou o oposto, tanto faz. Leia as
+      instruções e preencha nosso pré-briefing e entraremos em contato com você.
+
+      Ainda está pensando? Diga "Olá" pelo e-mail atendimento@eupoiese.com ou pelo
+      WhatsApp pelo número +55 22 9 8845-6722 e conte-nos seus objetivos e
+      ideias!
+    actions:
+      - type: action
+        label: diga olá
+        url: /contact
+        style: button
+    image: /images/service-1.svg
+    image_alt: Illustration
+    bg_color: light
 template: advanced
 ---

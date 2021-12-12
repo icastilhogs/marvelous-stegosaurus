@@ -697,7 +697,7 @@ collections:
                 default: grid_section
           - name: portfolio_section
             widget: object
-            label: Portfolio Section
+            label: Journal Section
             fields:
               - widget: string
                 name: section_id
@@ -1097,8 +1097,8 @@ collections:
     label: Blog
     files:
       - name: blog
-        label: Journal
-        file: src/pages/journal/index.md
+        label: Blog
+        file: src/pages/blog/index.md
         fields:
           - widget: string
             name: title
@@ -1200,12 +1200,12 @@ collections:
             label: Template
             required: true
             default: blog
-  - name: portfolio
-    label: Portfolio
+  - name: journal
+    label: Journal
     files:
-      - name: portfolio
-        label: Portfolio
-        file: src/pages/portfolio/index.md
+      - name: journal
+        label: Journal
+        file: src/pages/journal/index.md
         fields:
           - widget: string
             name: title
@@ -1420,7 +1420,7 @@ collections:
       value: page
   - name: post
     label: Posts
-    folder: src/pages/journal
+    folder: src/pages/blog
     create: true
     extension: md
     identifier_field: title
@@ -1551,7 +1551,7 @@ collections:
       value: post
   - name: project
     label: Projects
-    folder: src/pages/portfolio
+    folder: src/pages/journal
     create: true
     extension: md
     identifier_field: title
