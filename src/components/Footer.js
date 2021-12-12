@@ -35,11 +35,14 @@ export default class Footer extends React.Component {
                   </div>
                   )}
                 </div>
-                {_.get(this.props, 'pageContext.site.siteMetadata.footer.content', null) && (
-                  <span className="site-footer__copyright">
-                    {htmlToReact(_.get(this.props, 'pageContext.site.siteMetadata.footer.content', null))}
-                  </span>
-                  )}
+                <div className="copyright">
+                  {_.get(this.props, 'pageContext.site.siteMetadata.footer.content', null) && (
+                    <span className="site-footer__copyright">
+                      {htmlToReact(_.get(this.props, 'pageContext.site.siteMetadata.footer.content', null))}
+                    </span>
+                    )}
+                    <div><a href="/politica-de-privacidade">Política de Privacidade</a></div>
+                  </div>
               </div>
             </footer>
         );

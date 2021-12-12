@@ -44,7 +44,7 @@
     },
     "footer": {
         "type": "footer",
-        "content": "© Copyright Eupoiese™. Todos os direitos reservados. Política de privacidade",
+        "content": "© Copyright Eupoiese™. Todos os direitos reservados.",
         "has_social": true,
         "links": [
             {
@@ -71,11 +71,6 @@
                 "type": "action",
                 "label": "Contato",
                 "url": "/contact"
-            },
-            {
-                "type": "action",
-                "label": "Política de privacidade",
-                "url": "/politica-de-privacidade"
             }
         ],
         "social_links": [

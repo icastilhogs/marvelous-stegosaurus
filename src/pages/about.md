@@ -37,6 +37,16 @@ sections:
             new_window: true
             no_follow: false
             type: action
+      - title: Jordan Ribeiro
+        subtitle: Arquiteto e Urbanista
+        image_alt: Jordan Ribeiro
+        content: >
+          Arquiteto e urbanista formada pelo Instituto Federal Fluminense. Tem
+          experiência em projetos residenciais e modelagem BIM no software
+          Autodesk Revit, onde já atuou como monitor durante a graduação.
+        actions: []
+        type: grid_item
+        image: /images/jordan.jpg
       - type: grid_item
         title: Moisés Soares
         subtitle: Arquiteto e Urbanista
@@ -60,16 +70,6 @@ sections:
             new_window: true
             no_follow: false
             type: action
-      - title: Jordan Ribeiro
-        subtitle: Arquiteto e Urbanista
-        image_alt: Jordan Ribeiro
-        content: >
-          Arquiteto e urbanista formada pelo Instituto Federal Fluminense. Tem
-          experiência em projetos residenciais e modelagem BIM no software
-          Autodesk Revit, onde já atuou como monitor durante a graduação.
-        actions: []
-        type: grid_item
-        image: /images/jordan.jpg
   - section_id: serviços
     title: serviços
     subtitle: Conheça nossas principais frentes de serviço
@@ -135,7 +135,7 @@ sections:
     type: grid_section
   - section_id: instituicao
     title: onde estivemos
-    subtitle: Instituições que fizeram parte da nossa jornada
+    subtitle: Cilientes e instituições que fizeram parte da nossa jornada
     col_number: five
     grid_items:
       - image_alt: instituto federal fluminense
