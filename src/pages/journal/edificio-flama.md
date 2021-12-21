@@ -1,5 +1,5 @@
 ---
-title: Edifício Flama
+title: Em torno do fogo
 subtitle: >-
   O conceito adotado para o empreendimento surge a partir da cultura local de
   reunião em torno da churrasqueira para momentos de confraternização
