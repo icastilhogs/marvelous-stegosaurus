@@ -64,14 +64,6 @@ sections:
     width: wide
     type: image_section
     image: /images/journal/flama/005.jpg
-  - image_alt: lorem-ipsum
-    width: wide
-    type: image_section
-    image: /images/journal/flama/006.jpg
-  - image_alt: lorem-ipsum
-    width: wide
-    type: image_section
-    image: /images/journal/flama/007.jpg
 seo:
   title: ''
   description: ''
