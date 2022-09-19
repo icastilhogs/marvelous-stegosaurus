@@ -46,15 +46,6 @@ sections:
         actions: []
         type: grid_item
         image: /images/jordan.jpg
-      - type: grid_item
-        title: Moisés Soares
-        subtitle: Arquiteto e Urbanista
-        image: /images/moises.jpg
-        image_alt: Moisés Soares
-        content: >
-          Arquiteto e urbanista formada pelo Instituto Federal Fluminense. Tem
-          experiência em projetos residenciais e modelagem BIM no software
-          Autodesk Revit, onde já atuou como monitor durante a graduação.
         actions:
           - type: action
             label: Twitter
