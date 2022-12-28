@@ -23,12 +23,6 @@ sections:
           Fluminense. Escreveu artigos para PARC e para o blog da Valente
           Empreendimentos. Revisou artigo para revista urbana da Unicamp.
         actions:
-          - type: action
-            label: Twitter
-            url: 'https://twitter.com/inmathterms'
-            style: icon
-            icon: twitter
-            new_window: true
           - label: Instagram
             url: Instagram.com/isabelacastilho__
             style: icon
@@ -40,26 +34,10 @@ sections:
         subtitle: Arquiteto e Urbanista
         image_alt: Jordan Ribeiro
         content: >
-          Arquiteto e urbanista formada pelo Instituto Federal Fluminense. Tem
-          experiência em projetos residenciais e modelagem BIM no software
-          Autodesk Revit, onde já atuou como monitor durante a graduação.
+          Arquiteto e urbanista formada pelo Instituto Federal Fluminense. Tem experiência em projetos residenciais e modelagem BIM no software Autodesk Revit, onde já atuou como monitor durante a graduação.
         actions: []
         type: grid_item
         image: /images/jordan.jpg
-        actions:
-          - type: action
-            label: Twitter
-            url: 'https://twitter.com/'
-            style: icon
-            icon: twitter
-            new_window: true
-          - label: Instagram
-            url: 'https://www.instagram.com/moisesoarquiteto'
-            style: icon
-            icon: instagram
-            new_window: true
-            no_follow: false
-            type: action
   - section_id: serviços
     title: serviços
     subtitle: Conheça nossas principais frentes de serviço
